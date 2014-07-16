@@ -1,0 +1,5980 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <TSI1>
+
+    <glyphProgram name=".notdef">
+/* TT glyph 0, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name=".null">
+/* TT glyph 1, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="A">
+/* TT glyph 36, char 0x41 (A) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 2
+MIRP[m>RBl], 2, 122
+MIAP[R], 11, 8
+MIAP[R], 26, 8
+MIRP[m>RBl], 28, 122
+SRP0[], 37
+MIRP[m&lt;RGr], 13, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="AE">
+/* TT glyph 136, char 0xc6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="AEacute">
+USEMYMETRICS[]
+OFFSET[R], 136, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 547, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Aacute">
+/* TT glyph 131, char 0xc1 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Abreve">
+USEMYMETRICS[]
+OFFSET[R], 36, 0, 0
+OVERLAP[]
+OFFSET[R], 359, 51, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Acircumflex">
+/* TT glyph 132, char 0xc2 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Adieresis">
+/* TT glyph 134, char 0xc4 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Agrave">
+/* TT glyph 130, char 0xc0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Amacron">
+USEMYMETRICS[]
+OFFSET[R], 36, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 271, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Aogonek">
+USEMYMETRICS[]
+OFFSET[R], 36, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 716, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="Aring">
+/* TT glyph 135, char 0xc5 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Atilde">
+/* TT glyph 133, char 0xc3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="B">
+/* TT glyph 37, char 0x42 (B) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 8
+MIRP[m>RBl], 23, 122
+MIAP[R], 1, 8
+MIAP[R], 19, 2
+MIAP[R], 20, 2
+MIRP[m>RBl], 22, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="C">
+/* TT glyph 38, char 0x43 (C) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 30, 2
+MIAP[R], 36, 3
+MIAP[R], 46, 9
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Cacute">
+USEMYMETRICS[]
+OFFSET[R], 38, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 247, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ccaron">
+USEMYMETRICS[]
+OFFSET[R], 38, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 267, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ccedilla">
+/* TT glyph 137, char 0xc7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ccircumflex">
+USEMYMETRICS[]
+OFFSET[R], 38, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 257, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Cdotaccent">
+USEMYMETRICS[]
+OFFSET[R], 38, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 207, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="D">
+/* TT glyph 39, char 0x44 (D) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 8
+MIRP[m>RBl], 13, 122
+MIAP[R], 1, 8
+MIAP[R], 9, 2
+MIAP[R], 10, 2
+MIRP[m>RBl], 12, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Dcaron">
+USEMYMETRICS[]
+OFFSET[R], 39, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 398, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Dcroat">
+USEMYMETRICS[]
+OFFSET[R], 39, 0, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Delta">
+/* TT glyph 425, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="E">
+/* TT glyph 40, char 0x45 (E) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 12, 8
+MIRP[m>RBl], 7, 122
+MIAP[R], 13, 8
+MIRP[m>RBl], 15, 122
+MIAP[R], 18, 2
+MIRP[m>RBl], 16, 122
+MIAP[R], 19, 2
+MIRP[m>RBl], 2, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="Eacute">
+/* TT glyph 139, char 0xc9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ebreve">
+USEMYMETRICS[]
+OFFSET[R], 40, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -24, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ecaron">
+USEMYMETRICS[]
+OFFSET[R], 40, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 243, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ecircumflex">
+/* TT glyph 140, char 0xca */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Edieresis">
+/* TT glyph 141, char 0xcb */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Edotaccent">
+USEMYMETRICS[]
+OFFSET[R], 40, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 183, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Egrave">
+/* TT glyph 138, char 0xc8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Emacron">
+USEMYMETRICS[]
+OFFSET[R], 40, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 195, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Eng">
+/* TT glyph 266, char 0x14a */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Eogonek">
+USEMYMETRICS[]
+OFFSET[R], 40, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 460, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="Eth">
+/* TT glyph 146, char 0xd0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Euro">
+/* TT glyph 399, char 0x20ac */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="F">
+/* TT glyph 41, char 0x46 (F) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 8
+MIRP[m>RBl], 2, 122
+MIAP[R], 5, 8
+MIRP[m>RBl], 7, 122
+MIAP[R], 10, 2
+MIRP[m>RBl], 8, 122
+MIAP[R], 11, 2
+MIRP[m>RBl], 15, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="G">
+/* TT glyph 42, char 0x47 (G) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 1, 8
+MIAP[R], 27, 2
+MIAP[R], 31, 3
+MIAP[R], 42, 9
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Gbreve">
+USEMYMETRICS[]
+OFFSET[R], 42, 0, 0
+OVERLAP[]
+OFFSET[R], 359, 90, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Gcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 42, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 348, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Gcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 42, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 581, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="Gdotaccent">
+USEMYMETRICS[]
+OFFSET[R], 42, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 298, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="H">
+/* TT glyph 43, char 0x48 (H) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 2
+MIRP[m>RBl], 2, 122
+MIAP[R], 5, 2
+MIRP[m>RBl], 7, 122
+MIAP[R], 12, 2
+MIRP[m>RBl], 10, 122
+MIAP[R], 13, 2
+MIRP[m>RBl], 15, 122
+MIAP[R], 18, 8
+MIRP[m>RBl], 16, 122
+MIAP[R], 19, 8
+MIRP[m>RBl], 21, 122
+MIAP[R], 26, 8
+MIRP[m>RBl], 24, 122
+MIAP[R], 27, 8
+MIRP[m>RBl], 1, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Hbar">
+/* TT glyph 232, char 0x126 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Hcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 43, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 442, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="I">
+/* TT glyph 44, char 0x49 (I) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 8
+MIRP[m>RBl], 2, 122
+MIAP[R], 5, 8
+MIRP[m>RBl], 7, 122
+MIAP[R], 10, 2
+MIRP[m>RBl], 8, 122
+MIAP[R], 11, 2
+MIRP[m>RBl], 1, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="Iacute">
+/* TT glyph 143, char 0xcd */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ibreve">
+USEMYMETRICS[]
+OFFSET[R], 44, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -231, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Icircumflex">
+/* TT glyph 144, char 0xce */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Idieresis">
+/* TT glyph 145, char 0xcf */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Idotaccent">
+USEMYMETRICS[]
+OFFSET[R], 44, 0, 0
+OVERLAP[]
+OFFSET[R], 360, -23, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Igrave">
+/* TT glyph 142, char 0xcc */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Imacron">
+USEMYMETRICS[]
+OFFSET[R], 44, 0, 0
+OVERLAP[]
+OFFSET[R], 422, -11, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Iogonek">
+USEMYMETRICS[]
+OFFSET[R], 44, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 54, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Itilde">
+USEMYMETRICS[]
+OFFSET[R], 44, 0, 0
+OVERLAP[]
+OFFSET[R], 363, -131, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="J">
+/* TT glyph 45, char 0x4a (J) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 8
+MIAP[R], 4, 9
+MIAP[R], 10, 2
+MIRP[m>RBl], 8, 122
+MIAP[R], 11, 2
+MIRP[m>RBl], 13, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Jcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 45, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 145, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="K">
+/* TT glyph 46, char 0x4b (K) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 2
+MIRP[m>RBl], 38, 122
+MIAP[R], 1, 2
+MIRP[m>RBl], 3, 122
+MIAP[R], 7, 2
+MIRP[m>RBl], 9, 122
+MIAP[R], 23, 8
+MIRP[m>RBl], 20, 122
+MIAP[R], 34, 8
+MIRP[m>RBl], 31, 122
+MIAP[R], 35, 8
+MIRP[m>RBl], 37, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Kcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 46, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 581, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="L">
+/* TT glyph 47, char 0x4c (L) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 8
+MIRP[m>RBl], 0, 122
+MIAP[R], 5, 8
+MIRP[m>RBl], 7, 122
+MIAP[R], 10, 2
+MIRP[m>RBl], 8, 122
+MIAP[R], 11, 2
+MIRP[m>RBl], 13, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Lacute">
+USEMYMETRICS[]
+OFFSET[R], 47, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 188, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Lcaron">
+USEMYMETRICS[]
+OFFSET[R], 47, 0, 0
+OVERLAP[]
+OFFSET[R], 385, 907, 430
+
+    </glyphProgram>
+
+    <glyphProgram name="Lcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 47, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 366, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="Ldot">
+USEMYMETRICS[]
+OFFSET[R], 47, 0, 0
+OVERLAP[]
+OFFSET[R], 121, 799, 243
+
+    </glyphProgram>
+
+    <glyphProgram name="Lslash">
+/* TT glyph 257, char 0x141 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="M">
+/* TT glyph 48, char 0x4d (M) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 8
+MIAP[R], 6, 8
+MIRP[m>RBl], 4, 122
+MIAP[R], 7, 8
+MIRP[m>RBl], 9, 122
+MIAP[R], 12, 2
+MIRP[m>RBl], 10, 122
+MIAP[R], 16, 2
+MIRP[m>RBl], 18, 122
+MIAP[R], 30, 8
+MIRP[m&lt;RWh], 29, 122
+MIAP[R], 31, 8
+MIRP[m&lt;RWh], 32, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="N">
+/* TT glyph 49, char 0x4e (N) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 2
+MIRP[m&lt;RWh], 34, 122
+MIAP[R], 1, 2
+MIRP[m&lt;RWh], 2, 122
+MIAP[R], 11, 2
+MIRP[m>RBl], 14, 122
+MIAP[R], 22, 8
+MIRP[m&lt;RWh], 21, 122
+MIAP[R], 23, 8
+MIRP[m&lt;RWh], 24, 122
+MIAP[R], 29, 8
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="Nacute">
+USEMYMETRICS[]
+OFFSET[R], 49, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 415, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ncaron">
+USEMYMETRICS[]
+OFFSET[R], 49, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 435, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ncommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 49, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 581, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="Ntilde">
+/* TT glyph 147, char 0xd1 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="O">
+/* TT glyph 50, char 0x4f (O) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 9
+MIAP[R], 12, 3
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="OE">
+/* TT glyph 274, char 0x152 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Oacute">
+/* TT glyph 149, char 0xd3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Obreve">
+USEMYMETRICS[]
+OFFSET[R], 50, 0, 0
+OVERLAP[]
+OFFSET[R], 359, 102, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ocircumflex">
+/* TT glyph 150, char 0xd4 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Odieresis">
+/* TT glyph 152, char 0xd6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ograve">
+/* TT glyph 148, char 0xd2 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ohungarumlaut">
+USEMYMETRICS[]
+OFFSET[R], 50, 0, 0
+OVERLAP[]
+OFFSET[R], 364, 35, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Omacron">
+USEMYMETRICS[]
+OFFSET[R], 50, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 322, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Omega">
+/* TT glyph 366, char 0x3a9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Oslash">
+/* TT glyph 154, char 0xd8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Oslashacute">
+OVERLAP[]
+OFFSET[R], 154, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 350, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Otilde">
+/* TT glyph 151, char 0xd5 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="P">
+/* TT glyph 51, char 0x50 (P) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 8
+MIRP[m>RBl], 29, 122
+MIAP[R], 1, 8
+MIRP[m>RBl], 3, 122
+MIAP[R], 21, 2
+MIAP[R], 26, 2
+MIRP[m>RBl], 28, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="Q">
+/* TT glyph 52, char 0x51 (Q) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 9
+MIAP[R], 3, 8
+MIRP[m>RBl], 5, 122
+MIAP[R], 13, 3
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="R">
+/* TT glyph 53, char 0x52 (R) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 19, 8
+MIRP[m>RBl], 21, 122
+MIAP[R], 38, 2
+MIAP[R], 39, 2
+MIRP[m>RBl], 41, 122
+MIAP[R], 44, 8
+MIRP[m>RBl], 42, 122
+MIAP[R], 46, 8
+MIRP[m>RBl], 1, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="Racute">
+USEMYMETRICS[]
+OFFSET[R], 53, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 360, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Rcaron">
+USEMYMETRICS[]
+OFFSET[R], 53, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 380, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Rcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 53, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 581, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="S">
+/* TT glyph 54, char 0x53 (S) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 3
+MIAP[R], 29, 8
+MIAP[R], 34, 9
+MIAP[R], 57, 2
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Sacute">
+USEMYMETRICS[]
+OFFSET[R], 54, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 142, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Scaron">
+/* TT glyph 288, char 0x160 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Scedilla">
+USEMYMETRICS[]
+OFFSET[R], 54, 0, 0
+OVERLAP[]
+OFFSET[R], 122, 399, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="Scircumflex">
+USEMYMETRICS[]
+OFFSET[R], 54, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 152, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Scommaaccent">
+/* TT glyph 352, char 0x218 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Sigma">
+/* TT glyph 365, char 0x3a3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="T">
+/* TT glyph 55, char 0x54 (T) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 5, 8
+MIRP[m>RBl], 3, 122
+MIAP[R], 6, 8
+MIRP[m>RBl], 8, 122
+MIAP[R], 13, 2
+MIRP[m>RBl], 9, 122
+MIAP[R], 14, 2
+MIRP[m>RBl], 2, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="Tbar">
+/* TT glyph 294, char 0x166 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Tcaron">
+USEMYMETRICS[]
+OFFSET[R], 55, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 265, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Tcommaaccent">
+/* TT glyph 290, char 0x162 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Thorn">
+/* TT glyph 160, char 0xde */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="U">
+/* TT glyph 56, char 0x55 (U) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 2
+MIRP[m>RBl], 0, 122
+MIAP[R], 3, 2
+MIRP[m>RBl], 5, 122
+MIAP[R], 17, 2
+MIRP[m>RBl], 15, 122
+MIAP[R], 18, 2
+MIRP[m>RBl], 20, 122
+MIAP[R], 29, 9
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Uacute">
+/* TT glyph 156, char 0xda */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ubreve">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 359, 71, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ucircumflex">
+/* TT glyph 157, char 0xdb */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Udieresis">
+/* TT glyph 158, char 0xdc */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ugrave">
+/* TT glyph 155, char 0xd9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Uhungarumlaut">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 364, 5, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Umacron">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 291, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Uogonek">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 179, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="Uring">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 361, 140, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Utilde">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 363, 171, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="V">
+/* TT glyph 57, char 0x56 (V) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 2
+MIRP[m>RBl], 0, 122
+MIAP[R], 3, 2
+MIRP[m>RBl], 5, 122
+MIAP[R], 6, 8
+MIAP[R], 19, 2
+MIRP[m&lt;RWh], 18, 122
+MIAP[R], 20, 2
+MIRP[m&lt;RWh], 21, 122
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="W">
+/* TT glyph 58, char 0x57 (W) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 2
+MIRP[m>RBl], 2, 122
+MIAP[R], 3, 8
+MIAP[R], 6, 8
+MIAP[R], 12, 2
+MIRP[m&lt;RWh], 11, 122
+MIAP[R], 13, 2
+MIRP[m&lt;RWh], 14, 122
+MIAP[R], 19, 2
+MIAP[R], 24, 2
+MIRP[m>RBl], 22, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Wacute">
+USEMYMETRICS[]
+OFFSET[R], 58, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 708, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Wcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 58, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 718, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Wdieresis">
+USEMYMETRICS[]
+OFFSET[R], 58, 0, 0
+OVERLAP[]
+OFFSET[R], 106, 427, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Wgrave">
+USEMYMETRICS[]
+OFFSET[R], 58, 0, 0
+OVERLAP[]
+OFFSET[R], 67, 804, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="X">
+/* TT glyph 59, char 0x58 (X) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 2
+MIRP[m&lt;RWh], 42, 122
+MIAP[R], 1, 2
+MIRP[m&lt;RWh], 2, 122
+MIAP[R], 12, 2
+MIRP[m>RBl], 10, 122
+MIAP[R], 13, 2
+MIRP[m>RBl], 15, 122
+MIAP[R], 22, 8
+MIRP[m>RBl], 24, 122
+MIAP[R], 34, 8
+MIRP[m>RBl], 32, 122
+MIAP[R], 35, 8
+MIRP[m>RBl], 37, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Y">
+/* TT glyph 60, char 0x59 (Y) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 2
+MIRP[m>RBl], 37, 122
+MIAP[R], 1, 2
+MIRP[m&lt;RWh], 2, 122
+MIAP[R], 19, 2
+MIRP[m>RBl], 17, 122
+MIAP[R], 20, 2
+MIRP[m>RBl], 22, 122
+MIAP[R], 26, 8
+MIRP[m>RBl], 24, 122
+MIAP[R], 27, 8
+MIRP[m>RBl], 29, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Yacute">
+/* TT glyph 159, char 0xdd */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Ycircumflex">
+USEMYMETRICS[]
+OFFSET[R], 60, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 267, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Ydieresis">
+/* TT glyph 312, char 0x178 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ygrave">
+USEMYMETRICS[]
+OFFSET[R], 60, 0, 0
+OVERLAP[]
+OFFSET[R], 67, 353, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Ymacron">
+/* TT glyph 423, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="Z">
+/* TT glyph 61, char 0x5a (Z) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 6, 8
+MIRP[m>RBl], 1, 122
+MIAP[R], 13, 2
+MIRP[m>RBl], 8, 122
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Zacute">
+USEMYMETRICS[]
+OFFSET[R], 61, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 281, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="Zcaron">
+/* TT glyph 317, char 0x17d */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="Zdotaccent">
+USEMYMETRICS[]
+OFFSET[R], 61, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 241, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="a">
+/* TT glyph 68, char 0x61 (a) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 7, 10
+MIAP[R], 8, 10
+MIRP[m&lt;RWh], 9, 93
+MIAP[R], 19, 1
+SRP0[], 52
+MIRP[m&lt;RGr], 3, 11
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="aacute">
+/* TT glyph 163, char 0xe1 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="abreve">
+USEMYMETRICS[]
+OFFSET[R], 68, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -122, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="acircumflex">
+/* TT glyph 164, char 0xe2 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="acute">
+/* TT glyph 118, char 0xb4 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="adieresis">
+/* TT glyph 166, char 0xe4 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ae">
+/* TT glyph 168, char 0xe6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="aeacute">
+USEMYMETRICS[]
+OFFSET[R], 168, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 433, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="agrave">
+/* TT glyph 162, char 0xe0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="amacron">
+USEMYMETRICS[]
+OFFSET[R], 68, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 97, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ampersand">
+/* TT glyph 9, char 0x26 (&amp;) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="aogonek">
+USEMYMETRICS[]
+OFFSET[R], 68, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 329, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="approxequal">
+/* TT glyph 409, char 0x2248 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="aring">
+/* TT glyph 167, char 0xe5 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="asciicircum">
+/* TT glyph 65, char 0x5e (^) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="asciitilde">
+/* TT glyph 97, char 0x7e (~) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="asterisk">
+/* TT glyph 13, char 0x2a (*) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="at">
+/* TT glyph 35, char 0x40 (@) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="atilde">
+/* TT glyph 165, char 0xe3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="b">
+/* TT glyph 69, char 0x62 (b) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 1, 6
+MIRP[m>RBl], 3, 93
+MIAP[R], 5, 10
+SRP0[], 45
+MIRP[m&lt;RGr], 22, 1
+SRP0[], 46
+MIRP[m&lt;RGr], 10, 11
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="backslash">
+/* TT glyph 63, char 0x5c (\) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="bar">
+/* TT glyph 95, char 0x7c (|) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="braceleft">
+/* TT glyph 94, char 0x7b ({) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="braceright">
+/* TT glyph 96, char 0x7d (}) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketleft">
+/* TT glyph 62, char 0x5b ([) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="bracketright">
+/* TT glyph 64, char 0x5d (]) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="breve">
+/* TT glyph 359, char 0x2d8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="brokenbar">
+/* TT glyph 104, char 0xa6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="bullet">
+/* TT glyph 392, char 0x2022 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="c">
+/* TT glyph 70, char 0x63 (c) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 28, 0
+SRP0[], 37
+MIRP[m&lt;RGr], 4, 11
+SRP0[], 38
+MIRP[m&lt;RGr], 32, 1
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="cacute">
+USEMYMETRICS[]
+OFFSET[R], 70, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 33, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="caron">
+/* TT glyph 358, char 0x2c7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ccaron">
+USEMYMETRICS[]
+OFFSET[R], 70, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 53, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ccedilla">
+/* TT glyph 169, char 0xe7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ccircumflex">
+USEMYMETRICS[]
+OFFSET[R], 70, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 43, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="cdotaccent">
+USEMYMETRICS[]
+OFFSET[R], 70, 0, 0
+OVERLAP[]
+OFFSET[R], 360, -6, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="cedilla">
+/* TT glyph 122, char 0xb8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="cent">
+/* TT glyph 100, char 0xa2 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="circumflex">
+/* TT glyph 357, char 0x2c6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="colon">
+/* TT glyph 29, char 0x3a (:) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="comma">
+/* TT glyph 15, char 0x2c (,) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="copyright">
+/* TT glyph 107, char 0xa9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="currency">
+/* TT glyph 102, char 0xa4 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="d">
+/* TT glyph 71, char 0x64 (d) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 6
+MIRP[m>RBl], 4, 93
+MIAP[R], 9, 1
+MIAP[R], 23, 10
+MIAP[R], 24, 14
+MIRP[m&lt;RWh], 0, 93
+SRP0[], 45
+MIRP[m&lt;RGr], 19, 11
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="dagger">
+/* TT glyph 390, char 0x2020 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="daggerdbl">
+/* TT glyph 391, char 0x2021 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="dcaron">
+OVERLAP[]
+OFFSET[R], 71, 0, 0
+OVERLAP[]
+OFFSET[R], 385, 1442, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="dcroat">
+/* TT glyph 211, char 0x111 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="degree">
+/* TT glyph 114, char 0xb0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="dieresis">
+/* TT glyph 106, char 0xa8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="divide">
+/* TT glyph 185, char 0xf7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="dollar">
+/* TT glyph 7, char 0x24 ($) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="dotaccent">
+/* TT glyph 360, char 0x2d9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="dotlessi">
+/* TT glyph 243, char 0x131 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="e">
+/* TT glyph 72, char 0x65 (e) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 11
+MIAP[R], 21, 1
+MDAP[r], 38
+MIRP[m&lt;rWh], 32, 124
+MDAP[R], 32
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="eacute">
+/* TT glyph 171, char 0xe9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ebreve">
+USEMYMETRICS[]
+OFFSET[R], 72, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -157, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ecaron">
+USEMYMETRICS[]
+OFFSET[R], 72, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 110, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="ecircumflex">
+/* TT glyph 172, char 0xea */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="edieresis">
+/* TT glyph 173, char 0xeb */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="edotaccent">
+USEMYMETRICS[]
+OFFSET[R], 72, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 50, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="egrave">
+/* TT glyph 170, char 0xe8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="eight">
+/* TT glyph 27, char 0x38 (8) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 11, 5
+MIAP[R], 28, 13
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ellipsis">
+/* TT glyph 393, char 0x2026 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="emacron">
+USEMYMETRICS[]
+OFFSET[R], 72, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 62, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="emdash">
+/* TT glyph 383, char 0x2014 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="endash">
+/* TT glyph 382, char 0x2013 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="eng">
+/* TT glyph 267, char 0x14b */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="eogonek">
+USEMYMETRICS[]
+OFFSET[R], 72, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 122, 50
+
+
+    </glyphProgram>
+
+    <glyphProgram name="equal">
+/* TT glyph 32, char 0x3d (=) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="eth">
+/* TT glyph 178, char 0xf0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="exclam">
+/* TT glyph 4, char 0x21 (!) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="exclamdown">
+/* TT glyph 99, char 0xa1 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="f">
+/* TT glyph 73, char 0x66 (f) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 3, 0
+MIRP[m>RBl], 5, 93
+MIAP[R], 8, 14
+MIRP[m>RBl], 6, 93
+MIAP[R], 9, 14
+MIRP[m>RBl], 11, 93
+MIAP[R], 14, 0
+MIRP[m>RBl], 12, 93
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="fi">
+/* TT glyph 426, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="five">
+/* TT glyph 24, char 0x35 (5) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 3, 13
+MIAP[R], 19, 4
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="fl">
+/* TT glyph 427, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="florin">
+/* TT glyph 319, char 0x192 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="four">
+/* TT glyph 23, char 0x34 (4) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 3, 12
+MIAP[R], 10, 4
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="fraction">
+/* TT glyph 397, char 0x2044 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="g">
+/* TT glyph 74, char 0x67 (g) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 6, 0
+MIRP[m>RBl], 4, 93
+MIAP[R], 9, 1
+MIAP[R], 18, 15
+MIAP[R], 26, 123
+MIRP[m>RBl], 0, 93
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="gbreve">
+USEMYMETRICS[]
+OFFSET[R], 74, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -62, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="gcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 74, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 195, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="gcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 74, 0, 0
+OVERLAP[]
+OFFSET[R], 384, 373, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="gdotaccent">
+USEMYMETRICS[]
+OFFSET[R], 74, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 145, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="germandbls">
+/* TT glyph 161, char 0xdf */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="grave">
+/* TT glyph 67, char 0x60 (`) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="greater">
+/* TT glyph 33, char 0x3e (>) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="greaterequal">
+/* TT glyph 412, char 0x2265 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotleft">
+/* TT glyph 109, char 0xab */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="guillemotright">
+/* TT glyph 125, char 0xbb */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglleft">
+/* TT glyph 395, char 0x2039 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="guilsinglright">
+/* TT glyph 396, char 0x203a */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="h">
+/* TT glyph 75, char 0x68 (h) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 10
+MIRP[m>RBl], 29, 93
+MIAP[R], 1, 14
+MIRP[m>RBl], 3, 93
+MIAP[R], 9, 10
+MIAP[R], 10, 14
+MIRP[m&lt;RWh], 11, 93
+MIAP[R], 16, 1
+MIRP[m>RBl], 6, 94
+MIAP[R], 25, 6
+MIRP[m>RBl], 27, 93
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="hbar">
+/* TT glyph 233, char 0x127 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="hcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 75, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 152, 557
+
+    </glyphProgram>
+
+    <glyphProgram name="hungarumlaut">
+/* TT glyph 364, char 0x2dd */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="hyphen">
+/* TT glyph 16, char 0x2d (-) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="i">
+/* TT glyph 76, char 0x69 (i) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 0
+MIRP[m>RBl], 2, 93
+MIAP[R], 1, 0
+MIRP[M&lt;RWh], 10, 96
+MIRP[m>RBl], 16, 95
+MIAP[R], 6, 10
+MIRP[m&lt;RWh], 5, 93
+MIAP[R], 7, 10
+MIRP[m&lt;RWh], 8, 93
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="iacute">
+/* TT glyph 175, char 0xed */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ibreve">
+USEMYMETRICS[]
+OFFSET[R], 243, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -362, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="icircumflex">
+/* TT glyph 176, char 0xee */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="idieresis">
+/* TT glyph 177, char 0xef */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="igrave">
+/* TT glyph 174, char 0xec */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ij">
+/* TT glyph 244, char 0x133 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="imacron">
+USEMYMETRICS[]
+OFFSET[R], 243, 0, 0
+OVERLAP[]
+OFFSET[R], 422, -142, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="infinity">
+/* TT glyph 407, char 0x221e */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="integral">
+/* TT glyph 408, char 0x222b */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="invertedbreve">
+/* TT glyph 421, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="iogonek">
+USEMYMETRICS[]
+OFFSET[R], 76, 0, 0
+OVERLAP[]
+OFFSET[R], 362, -315, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="itilde">
+USEMYMETRICS[]
+OFFSET[R], 243, 0, 0
+OVERLAP[]
+OFFSET[R], 363, -262, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="j">
+/* TT glyph 77, char 0x6a (j) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 7, 0
+MIRP[m>RBl], 9, 93
+MIAP[R], 8, 0
+MIRP[M&lt;RWh], 14, 96
+MIRP[m>RBl], 20, 95
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="jcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 356, 0, 0
+OVERLAP[]
+OFFSET[R], 357, -125, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="k">
+/* TT glyph 78, char 0x6b (k) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 10
+MIRP[m>RBl], 3, 93
+MIAP[R], 8, 6
+MIRP[m>RBl], 6, 93
+MIAP[R], 12, 0
+MIRP[m>RBl], 10, 94
+MIAP[R], 13, 0
+MIRP[m>RBl], 15, 94
+MIAP[R], 21, 10
+MIRP[m>RBl], 18, 94
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="kcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 78, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 358, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="l">
+/* TT glyph 79, char 0x6c (l) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 14
+MIRP[m>RBl], 1, 93
+MIAP[R], 3, 10
+MIRP[m>RBl], 4, 93
+MIAP[R], 9, 6
+MIRP[m>RBl], 7, 93
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="lacute">
+USEMYMETRICS[]
+OFFSET[R], 79, 0, 0
+OVERLAP[]
+OFFSET[R], 118, -124, 554
+
+
+    </glyphProgram>
+
+    <glyphProgram name="lcaron">
+OVERLAP[]
+OFFSET[R], 79, 0, 0
+OVERLAP[]
+OFFSET[R], 385, 776, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="lcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 79, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 42, -476
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ldot">
+OVERLAP[]
+OFFSET[R], 79, 0, 0
+OVERLAP[]
+OFFSET[R], 121, 608, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="less">
+/* TT glyph 31, char 0x3c (&lt;) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="lessequal">
+/* TT glyph 411, char 0x2264 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="logicalnot">
+/* TT glyph 110, char 0xac */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="lozenge">
+/* TT glyph 413, char 0x25ca */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="lslash">
+/* TT glyph 258, char 0x142 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="m">
+/* TT glyph 80, char 0x6d (m) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 10
+MIAP[R], 11, 14
+MIRP[m>RBl], 10, 93
+MIAP[R], 12, 10
+MIRP[m>RBl], 13, 93
+MIAP[R], 18, 0
+MIRP[m>RBl], 16, 93
+MIAP[R], 24, 1
+MIAP[R], 29, 1
+MIAP[R], 37, 14
+MIRP[m>RBl], 36, 93
+MIAP[R], 38, 10
+MIAP[R], 50, 14
+MIRP[m>RBl], 49, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="macron">
+/* TT glyph 113, char 0xaf */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="macron#1">
+/* TT glyph 422, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="minus">
+/* TT glyph 405, char 0x2212 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="multiply">
+/* TT glyph 153, char 0xd7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="n">
+/* TT glyph 81, char 0x6e (n) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 0
+MIRP[m>RBl], 2, 93
+MIAP[R], 6, 10
+MIRP[m&lt;RWh], 5, 93
+MIAP[R], 7, 14
+MIRP[m&lt;RWh], 8, 93
+MIAP[R], 17, 10
+MIRP[m>RBl], 19, 93
+MIAP[R], 23, 1
+MIRP[m>RBl], 13, 94
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="nacute">
+USEMYMETRICS[]
+OFFSET[R], 81, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 219, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="napostrophe">
+USEMYMETRICS[]
+OFFSET[R], 81, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 4, 1572
+
+    </glyphProgram>
+
+    <glyphProgram name="ncaron">
+USEMYMETRICS[]
+OFFSET[R], 81, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 239, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="ncommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 81, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 434, -476
+
+    </glyphProgram>
+
+    <glyphProgram name="nine">
+/* TT glyph 28, char 0x39 (9) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 1, 12
+MIAP[R], 14, 5
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="nonmarkingreturn">
+/* TT glyph 2, char 0xffff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="notequal">
+/* TT glyph 410, char 0x2260 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ntilde">
+/* TT glyph 179, char 0xf1 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="numbersign">
+/* TT glyph 6, char 0x23 (#) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="o">
+/* TT glyph 82, char 0x6f (o) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 3, 1
+SRP0[], 26
+MIRP[m&lt;RGr], 10, 11
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="oacute">
+/* TT glyph 181, char 0xf3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="obreve">
+USEMYMETRICS[]
+OFFSET[R], 82, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -124, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ocircumflex">
+/* TT glyph 182, char 0xf4 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="odieresis">
+/* TT glyph 184, char 0xf6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="oe">
+/* TT glyph 275, char 0x153 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ogonek">
+/* TT glyph 362, char 0x2db */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ograve">
+/* TT glyph 180, char 0xf2 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ohungarumlaut">
+USEMYMETRICS[]
+OFFSET[R], 82, 0, 0
+OVERLAP[]
+OFFSET[R], 364, -96, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="omacron">
+USEMYMETRICS[]
+OFFSET[R], 82, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 95, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="one">
+/* TT glyph 20, char 0x31 (1) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 12
+MIAP[R], 6, 4
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="onehalf">
+/* TT glyph 127, char 0xbd */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="onequarter">
+/* TT glyph 126, char 0xbc */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ordfeminine">
+/* TT glyph 108, char 0xaa */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ordmasculine">
+/* TT glyph 124, char 0xba */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="oslash">
+/* TT glyph 186, char 0xf8 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="oslashacute">
+OVERLAP[]
+OFFSET[R], 186, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 123, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="otilde">
+/* TT glyph 183, char 0xf5 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="p">
+/* TT glyph 83, char 0x70 (p) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 18, 1
+MIAP[R], 23, 0
+MIRP[m>RBl], 25, 93
+MIAP[R], 28, 123
+MIRP[m>RBl], 0, 93
+SRP0[], 51
+MIRP[m&lt;RGr], 8, 11
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="paragraph">
+/* TT glyph 120, char 0xb6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="parenleft">
+/* TT glyph 11, char 0x28 (() */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="parenright">
+/* TT glyph 12, char 0x29 ()) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="partialdiff">
+/* TT glyph 401, char 0x2202 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="percent">
+/* TT glyph 8, char 0x25 (%) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="period">
+/* TT glyph 17, char 0x2e (.) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="periodcentered">
+/* TT glyph 121, char 0xb7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="perthousand">
+/* TT glyph 394, char 0x2030 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="pi">
+/* TT glyph 367, char 0x3c0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="plus">
+/* TT glyph 14, char 0x2b (+) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="plusminus">
+/* TT glyph 115, char 0xb1 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="product">
+/* TT glyph 403, char 0x220f */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="q">
+/* TT glyph 84, char 0x71 (q) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 1, 123
+MIRP[m>RBl], 31, 93
+MIAP[R], 20, 1
+MIAP[R], 25, 0
+MIRP[m>RBl], 27, 93
+SRP0[], 47
+MIRP[m&lt;RGr], 9, 11
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="question">
+/* TT glyph 34, char 0x3f (?) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="questiondown">
+/* TT glyph 129, char 0xbf */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedbl">
+/* TT glyph 5, char 0x22 (") */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblbase">
+/* TT glyph 389, char 0x201e */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblleft">
+/* TT glyph 387, char 0x201c */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quotedblright">
+/* TT glyph 388, char 0x201d */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteleft">
+/* TT glyph 384, char 0x2018 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quoteright">
+/* TT glyph 385, char 0x2019 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesinglbase">
+/* TT glyph 386, char 0x201a */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="quotesingle">
+/* TT glyph 10, char 0x27 (') */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="r">
+/* TT glyph 85, char 0x72 (r) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 1, 0
+MIRP[m>RBl], 19, 93
+MIAP[R], 14, 14
+MIRP[m>RBl], 13, 93
+MIAP[R], 15, 10
+MIRP[m>RBl], 16, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="racute">
+USEMYMETRICS[]
+OFFSET[R], 85, 0, 0
+OVERLAP[]
+OFFSET[R], 118, -21, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="radical">
+/* TT glyph 406, char 0x221a */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="rcaron">
+USEMYMETRICS[]
+OFFSET[R], 85, 0, 0
+OVERLAP[]
+OFFSET[R], 358, -1, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="rcommaaccent">
+USEMYMETRICS[]
+OFFSET[R], 85, 0, 0
+OVERLAP[]
+OFFSET[R], 15, 77, -476
+
+
+    </glyphProgram>
+
+    <glyphProgram name="registered">
+/* TT glyph 112, char 0xae */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ring">
+/* TT glyph 361, char 0x2da */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="s">
+/* TT glyph 86, char 0x73 (s) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 7, 1
+MIAP[R], 27, 10
+SRP0[], 53
+MIRP[m&lt;RGr], 31, 11
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="sacute">
+USEMYMETRICS[]
+OFFSET[R], 86, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 5, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="scaron">
+/* TT glyph 289, char 0x161 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="scedilla">
+USEMYMETRICS[]
+OFFSET[R], 86, 0, 0
+OVERLAP[]
+OFFSET[R], 122, 262, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="scircumflex">
+USEMYMETRICS[]
+OFFSET[R], 86, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 15, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="scommaaccent">
+/* TT glyph 353, char 0x219 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="section">
+/* TT glyph 105, char 0xa7 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="semicolon">
+/* TT glyph 30, char 0x3b (;) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="seven">
+/* TT glyph 26, char 0x37 (7) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 7, 12
+MIAP[R], 9, 4
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="six">
+/* TT glyph 25, char 0x36 (6) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 15, 13
+MIAP[R], 26, 4
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="slash">
+/* TT glyph 18, char 0x2f (/) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="space">
+/* TT glyph 3, char 0x20 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="sterling">
+/* TT glyph 101, char 0xa3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="summation">
+/* TT glyph 404, char 0x2211 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="t">
+/* TT glyph 87, char 0x74 (t) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 8, 0
+MIRP[m>RBl], 6, 94
+MIAP[R], 13, 0
+MIRP[m>RBl], 15, 94
+MIAP[R], 18, 11
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="tbar">
+/* TT glyph 295, char 0x167 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="tcaron">
+OVERLAP[]
+OFFSET[R], 87, 0, 0
+OVERLAP[]
+OFFSET[R], 385, 873, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="tcommaaccent">
+/* TT glyph 291, char 0x163 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="thorn">
+/* TT glyph 192, char 0xfe */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="three">
+/* TT glyph 22, char 0x33 (3) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 4, 13
+MIAP[R], 14, 4
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="threequarters">
+/* TT glyph 128, char 0xbe */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="tilde">
+/* TT glyph 363, char 0x2dc */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="trademark">
+/* TT glyph 400, char 0x2122 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="two">
+/* TT glyph 21, char 0x32 (2) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 19, 5
+MIAP[R], 47, 12
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="u">
+/* TT glyph 88, char 0x75 (u) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 9, 0
+MIRP[m>RBl], 7, 93
+MIAP[R], 19, 0
+MIRP[m>RBl], 17, 93
+MIAP[R], 24, 10
+MIRP[m>RBl], 22, 93
+SRP0[], 25
+MIRP[m&lt;RGr], 3, 11
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="uacute">
+/* TT glyph 188, char 0xfa */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ubreve">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 359, -36, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="ucircumflex">
+/* TT glyph 189, char 0xfb */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="udieresis">
+/* TT glyph 190, char 0xfc */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ugrave">
+/* TT glyph 187, char 0xf9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uhungarumlaut">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 364, -156, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="umacron">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 182, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="underscore">
+/* TT glyph 66, char 0x5f (_) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00A0">
+/* TT glyph 98, char 0xa0 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00AD">
+/* TT glyph 111, char 0xad */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00B2">
+/* TT glyph 116, char 0xb2 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00B3">
+/* TT glyph 117, char 0xb3 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00B5">
+/* TT glyph 119, char 0xb5 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uni00B9">
+/* TT glyph 123, char 0xb9 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uni01D3">
+USEMYMETRICS[]
+OFFSET[R], 56, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 339, 551
+
+    </glyphProgram>
+
+    <glyphProgram name="uni01D4">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 358, 230, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="uni01E2">
+USEMYMETRICS[]
+OFFSET[R], 136, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 658, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni01E3">
+USEMYMETRICS[]
+OFFSET[R], 168, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 433, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0200">
+/* TT glyph 328, char 0x200 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0201">
+/* TT glyph 329, char 0x201 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0202">
+/* TT glyph 330, char 0x202 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0203">
+/* TT glyph 331, char 0x203 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0204">
+/* TT glyph 332, char 0x204 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0205">
+/* TT glyph 333, char 0x205 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0206">
+/* TT glyph 334, char 0x206 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0207">
+/* TT glyph 335, char 0x207 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0208">
+/* TT glyph 336, char 0x208 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0209">
+/* TT glyph 337, char 0x209 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni020A">
+/* TT glyph 338, char 0x20a */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni020B">
+/* TT glyph 339, char 0x20b */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni020C">
+/* TT glyph 340, char 0x20c */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni020D">
+/* TT glyph 341, char 0x20d */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni020E">
+/* TT glyph 342, char 0x20e */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni020F">
+/* TT glyph 343, char 0x20f */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0210">
+/* TT glyph 344, char 0x210 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0211">
+/* TT glyph 345, char 0x211 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0212">
+/* TT glyph 346, char 0x212 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0213">
+/* TT glyph 347, char 0x213 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0214">
+/* TT glyph 348, char 0x214 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0215">
+/* TT glyph 349, char 0x215 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0216">
+/* TT glyph 350, char 0x216 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0217">
+/* TT glyph 351, char 0x217 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni021A">
+/* TT glyph 354, char 0x21a */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni021B">
+/* TT glyph 355, char 0x21b */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni0237">
+/* TT glyph 356, char 0x237 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni1E46">
+USEMYMETRICS[]
+OFFSET[R], 49, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 417, -1725
+
+    </glyphProgram>
+
+    <glyphProgram name="uni1E47">
+USEMYMETRICS[]
+OFFSET[R], 81, 0, 0
+OVERLAP[]
+OFFSET[R], 17, 467, -532
+
+    </glyphProgram>
+
+    <glyphProgram name="uni1E62">
+USEMYMETRICS[]
+OFFSET[R], 54, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 130, -1725
+
+    </glyphProgram>
+
+    <glyphProgram name="uni1E63">
+USEMYMETRICS[]
+OFFSET[R], 86, 0, 0
+OVERLAP[]
+OFFSET[R], 17, 189, -529
+
+    </glyphProgram>
+
+    <glyphProgram name="uni1EBC">
+USEMYMETRICS[]
+OFFSET[R], 40, 0, 0
+OVERLAP[]
+OFFSET[R], 363, 74, 551
+
+
+    </glyphProgram>
+
+    <glyphProgram name="uni1EBD">
+USEMYMETRICS[]
+OFFSET[R], 72, 0, 0
+OVERLAP[]
+OFFSET[R], 363, -57, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="uni2074">
+/* TT glyph 398, char 0x2074 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uni2206">
+/* TT glyph 402, char 0x2206 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uniF6D6">
+/* TT glyph 414, char 0xf6d6 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uniF8FF">
+/* TT glyph 415, char 0xf8ff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB00">
+/* TT glyph 416, char 0xfb00 */
+/* VTT 4.4 compiler Thu Feb 17 22:48:15 2011 */
+SVTCA[Y]
+MIAP[R], 13, 0
+MIRP[m>RBl], 15, 93
+MIAP[R], 18, 7
+MIRP[m>RBl], 16, 93
+MIAP[R], 19, 7
+MIRP[m>RBl], 21, 93
+MIAP[R], 26, 7
+MIRP[m>RBl], 24, 93
+MIAP[R], 27, 7
+MIRP[m>RBl], 29, 93
+MIAP[R], 32, 0
+MIRP[m>RBl], 30, 93
+MIAP[R], 48, 0
+MIRP[m>RBl], 23, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB01">
+/* TT glyph 417, char 0xfb01 */
+/* VTT 4.4 compiler Thu Feb 17 22:49:44 2011 */
+SVTCA[Y]
+MIAP[R], 0, 0
+MIRP[M&lt;RWh], 33, 96
+MIRP[m>RBl], 39, 95
+MIAP[R], 1, 0
+MIRP[m>RBl], 26, 93
+MIAP[R], 15, 0
+MIRP[m>RBl], 17, 93
+MIAP[R], 21, 14
+MIRP[m>RBl], 19, 93
+MIAP[R], 22, 14
+MIRP[m>RBl], 24, 93
+MIAP[R], 29, 14
+MIRP[m>RBl], 27, 93
+MIAP[R], 30, 14
+MIRP[m>RBl], 32, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB02">
+/* TT glyph 418, char 0xfb02 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB03">
+/* TT glyph 419, char 0xfb03 */
+/* VTT 4.4 compiler Thu Feb 17 22:52:56 2011 */
+SVTCA[Y]
+MIAP[R], 2, 0
+MIRP[m>RBl], 4, 93
+MIAP[R], 8, 7
+MIRP[m>RBl], 6, 93
+MIAP[R], 9, 7
+MIRP[m>RBl], 11, 93
+MIAP[R], 16, 7
+MIRP[m>RBl], 14, 93
+MIAP[R], 17, 7
+MIRP[m>RBl], 19, 93
+MIAP[R], 24, 7
+MIRP[m>RBl], 22, 93
+MIAP[R], 25, 7
+MIRP[m>RBl], 27, 93
+MIAP[R], 28, 0
+MIRP[M&lt;RWh], 56, 96
+MIRP[m>RBl], 62, 95
+MIAP[R], 29, 0
+MIRP[m>RBl], 21, 93
+MIAP[R], 43, 0
+MIRP[m>RBl], 12, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="uniFB04">
+/* TT glyph 420, char 0xfb04 */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="uogonek">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 362, 473, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="uring">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 361, 31, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="utilde">
+USEMYMETRICS[]
+OFFSET[R], 88, 0, 0
+OVERLAP[]
+OFFSET[R], 363, 62, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="v">
+/* TT glyph 89, char 0x76 (v) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 8, 0
+MIRP[m>RBl], 6, 93
+MIAP[R], 9, 0
+MIRP[m>RBl], 11, 93
+MIAP[R], 12, 10
+MIAP[R], 18, 0
+MIRP[m>RBl], 1, 93
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="w">
+/* TT glyph 90, char 0x77 (w) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 10
+MIAP[R], 14, 0
+MIRP[m>RBl], 12, 93
+MIAP[R], 30, 0
+MIAP[R], 34, 0
+MIRP[m>RBl], 32, 93
+MIAP[R], 35, 0
+MIRP[m>RBl], 37, 93
+MIAP[R], 38, 10
+IUP[Y]
+IUP[X]
+
+
+    </glyphProgram>
+
+    <glyphProgram name="wacute">
+USEMYMETRICS[]
+OFFSET[R], 90, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 442, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="wcircumflex">
+USEMYMETRICS[]
+OFFSET[R], 90, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 452, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="wdieresis">
+USEMYMETRICS[]
+OFFSET[R], 90, 0, 0
+OVERLAP[]
+OFFSET[R], 106, 162, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="wgrave">
+USEMYMETRICS[]
+OFFSET[R], 90, 0, 0
+OVERLAP[]
+OFFSET[R], 67, 538, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="x">
+/* TT glyph 91, char 0x78 (x) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 1, 10
+MIRP[m>RBl], 19, 93
+MIAP[R], 3, 10
+MIRP[m>RBl], 5, 93
+MIAP[R], 11, 0
+MIRP[m>RBl], 9, 93
+MIAP[R], 13, 0
+MIRP[m>RBl], 15, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="y">
+/* TT glyph 92, char 0x79 (y) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 2, 123
+MIRP[m>RBl], 0, 93
+MIAP[R], 10, 0
+MIRP[m>RBl], 12, 93
+MIAP[R], 20, 0
+MIRP[m>RBl], 18, 93
+MIAP[R], 21, 0
+MIRP[m>RBl], 23, 93
+MIAP[R], 24, 10
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="yacute">
+/* TT glyph 191, char 0xfd */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="ycircumflex">
+USEMYMETRICS[]
+OFFSET[R], 92, 0, 0
+OVERLAP[]
+OFFSET[R], 357, 176, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="ydieresis">
+/* TT glyph 193, char 0xff */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+    </glyphProgram>
+
+    <glyphProgram name="yen">
+/* TT glyph 103, char 0xa5 */
+/* VTT 4.4 compiler Thu Feb 17 22:54:32 2011 */
+SVTCA[Y]
+MIAP[R], 10, 8
+MIRP[m>RBl], 8, 93
+MIAP[R], 11, 8
+MIRP[m>RBl], 13, 93
+MIAP[R], 30, 2
+MIRP[m>RBl], 28, 93
+MIAP[R], 31, 2
+MIRP[m&lt;RWh], 32, 93
+MIAP[R], 43, 2
+MIRP[m>RBl], 41, 93
+MIAP[R], 44, 2
+MIRP[m>RBl], 46, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="ygrave">
+USEMYMETRICS[]
+OFFSET[R], 92, 0, 0
+OVERLAP[]
+OFFSET[R], 67, 262, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="ymacron">
+USEMYMETRICS[]
+OFFSET[R], 92, 0, 0
+OVERLAP[]
+OFFSET[R], 422, 176, 0
+
+    </glyphProgram>
+
+    <glyphProgram name="z">
+/* TT glyph 93, char 0x7a (z) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 0, 10
+MIRP[m>RBl], 11, 93
+MIAP[R], 15, 0
+MIRP[m>RBl], 27, 93
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <glyphProgram name="zacute">
+USEMYMETRICS[]
+OFFSET[R], 93, 0, 0
+OVERLAP[]
+OFFSET[R], 118, 85, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="zcaron">
+/* TT glyph 318, char 0x17e */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+
+    </glyphProgram>
+
+    <glyphProgram name="zdotaccent">
+USEMYMETRICS[]
+OFFSET[R], 93, 0, 0
+OVERLAP[]
+OFFSET[R], 360, 45, 0
+
+
+    </glyphProgram>
+
+    <glyphProgram name="zero">
+/* TT glyph 19, char 0x30 (0) */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+SVTCA[Y]
+MIAP[R], 5, 5
+MIAP[R], 14, 13
+IUP[Y]
+IUP[X]
+
+    </glyphProgram>
+
+    <extraProgram name="cvt">
+/*** 
+
+Visual TrueType 4.2 Control Program 
+
+The new control program allows for a much easier setup of cvts and their
+hierarchy (inheritence) and exceptions (deltas) than the previous cvt and prep.
+It is intended to declare
+- cvt values
+- relations between dependant (child) and independent (parent) cvts
+- the ppem size below which child and parent cvts have the same values
+- relative or absolute inheritence
+- deltas for cvts in much the same way as deltas for control points in VTT Talk
+- additional (user-defined) character groups
+- spacing characters for user-defined character groups
+- additional (user-defined) cvt categories
+- global (font-wide) settings for
+  - the range of ppem sizes at which instructions are on
+  - the ppem size below which drop-out control is on
+  - values for cvt cut-ins
+- cvt attributes, last but not least, without using hexadecimal numbers...
+All these declarations are compiled to the actual prep upon compiling the cvt.
+*****/
+
+/*
+Additional Character group declarations
+
+To declare additional character groups, such as for greek characters, use the
+following example:
+
+GROUP GreekUC
+GROUP GreekLC
+GROUP GreekFig
+GROUP GreekPunct
+
+This will introduce four new character groups: GreekUC, GreekLC, GreekFig, and
+GreekPunct. These groups can then be used in the CharGrp.TXT template to
+associate each character with its character group. Subsequently, when you
+declare cvts, you can put the values for the Greek glyphs into the Greek group.
+Finally, when you use the link tool on a Greek glyph, the tool will choose the
+cvt from the Greek group.
+
+Likewise, if you need more character groups for the Latin glyphs, such as for
+small caps, superiors, or inferiors, feel free to add them. The limit is
+currently 256, 8 of which are reserved and comprise the standard character
+groups UpperCase, LowerCase, Figure, and Other.
+
+Along with user-defined character groups, you may wish to define a series of
+characters to check the spacing. The standard UpperCase group, for instance,
+uses "HH HOHO OO   " and replaces all the blanks by the current glyph in the
+main window displays this as the first part of the sample text at the top of
+the window. Very likely, for other groups you will need a different sequence
+of characters. Declare them as in the following example:
+
+GROUP LatinUC		"HH HOHO OO   "
+
+You can put any character between the double quotes on the right hand side.
+If it's not on your keyboard, use the following syntax:
+
+^574^ or ~414~
+
+to enter the character's glyph index (between carets) or unicode (between
+tildes), respectively.
+
+
+Additional Feature category declarations
+
+To declare additional feature categories, such as for flares, use the following
+example
+
+
+CATEGORY Flare
+
+This will introduce a new character group Flare, which you may then combine with
+all character groups, as shown further below.
+
+
+Global settings
+
+Following the user-defined character groups and feature categories are the
+global (font-wide) settings. The range of ppem sizes at which instructions
+are on is specified as follows:
+*/
+
+InstructionsOn @8..2047
+
+/*
+This compiles into appropriate code in the prep to turn off instructions below
+8 ppem and above 2047 ppem. Feel free to change these numbers as you see fit.
+
+The ppem size below which drop-out control is on is specified as follows:
+*/
+
+DropOutCtrlOff @144
+
+/*
+This compiles into approriate code in the prep to turn off drop-out control at
+and above 144 ppem. The special value of 255 ppem means to do drop-out control
+always. Users familiar with SCANCTRL and SCANTYPE may wish to control the bits
+individually, hence as an alternative they may use the following pair of
+assignments
+
+ScanCtrl = 511
+ScanType = 5
+
+which would achieve the same goal.
+
+The cvt cut-in values are specified as follows:
+*/
+
+CvtCutIn = 4, 2.5@29, 0@128
+
+/*
+This means that we want the cvt cut-in value to be
+- 4 pixels for small ppem sizes in order to force distances to the cvt
+- 2.5 pixels at medium ppem sizes (here starting at 29 ppem), and
+- 0 pixels at large ppem sizes (here starting at 128 ppem), to give full
+freedom to the actual widths.
+Again, this compiles into appropriate code in the prep. You may wish to
+experiment with the threshold ppem sizes and the pixel amounts, and you may
+add a fourth setting inbetween, such as
+
+CvtCutIn = 4, 2.5@29, 1@72, 0@128
+
+or use only two, such as
+
+CvtCutIn = 4, 0@128
+
+whichever serves best.
+
+
+Finally, the actual cvt numbers start. Recall from the dialog box entitled
+"Edit cvt attributes..." that cvts have four different attributes
+- character group
+- link color
+- link direction
+- feature category
+Instead of combining these four into a cryptic hexadecimal number, we now
+spell them out in plain English. For example,
+
+UpperCase
+  Black
+  X
+  StraightStroke
+    68: 192
+
+introduces cvt number 68 with value 192 fUnits, with the combined attribute
+UpperCase Black X StraightStroke. Once you have specified e.g. StraightStroke,
+this part of the attribute remains in effect for all the following cvts, hence
+you may wish to organize your cvts accordingly, as we did below. Same holds
+true for the X, hence keep the X, but change the feature category to RoundStroke
+and you get all UpperCase Black X RoundStroke cvts, etc. Indentation is optional
+but may increase legibility; feel free to use as many blanks or tabs you like.
+
+Lets start with the heights:
+*/
+
+UpperCase
+  Grey
+  Y
+  SquareHeight
+     2:    1623           /* replace the 0 with the actual cap height */
+     8:     0           /* the base "height" remains 0 */
+  RoundHeight
+     3:     30 ~  2 @42  /* replace the 0 with the actual cap height overshoot */
+     9:    -30 ~  8 @42  /* replace the 0 with the base height undershoot */
+
+/*
+The ~2 @42 means the following:
+- The 2 designates the parent cvt, which is the cap height in this case.
+- The tilde designates a relative cvt value, which is the overshoot amount in
+  this case. This amount will be used on top of the cap height.
+- The 42 means that the overshoot should kick in at 42 ppem. Replace the 42 by
+  whichever ppem size you wish the overshoot to kick in. 42 ppem is merely the
+  ppem size corresponding to 10 pt on a 300 dpi printer, a size at which we
+  may or may not wish to see the overshoots already.
+*/
+
+LowerCase
+  SquareHeight
+     0:     1072
+     6:     1630
+    10:     0
+    14:    -0
+  RoundHeight
+     1:     30 ~  0 @42
+     7:     0 ~  6 @42
+    11:    -30 ~ 10 @42
+    15:    -0 ~ 14 @42
+
+  Figure
+  SquareHeight
+     4:     1375
+    12:     0
+  RoundHeight
+     5:     20 ~ 4 @42
+    13:     -20 ~ 12 @42
+
+  Other
+  SquareHeight
+    16:     0
+    18:     0
+  RoundHeight
+    17:     0
+    19:     0
+
+/*
+Now we do the weights. We start with the grand parent cvt. Since the attributes
+remain in effect for all the following cvts, and since the grand parent cvt does
+not belong to a particular group etc., we reset the attributes as follows:
+*/
+
+AnyGroup
+  AnyColor
+  AnyDirection
+  AnyCategory
+    65: 0 /* replace the 0 with the actual weight of the grand parent cvt */
+  X
+    66: 0 = 65 @17 /* replace the 0 with weight of parent x distances */
+  Y
+    67: 0 = 65 @17 /* replace the 0 with weight of parent y distances */
+
+/*
+The = 65 @17 means the following:
+- The 65 designates the parent cvt, which is the grand parent in this case.
+- The equals sign designates an absolute cvt value. Unlike relative cvts, put
+  the actual (absolute) amount here, not merely the extra (relative) amount,
+  as it will not be added to the parent.
+- The 17 means that the cvt may break lose from its parent at 17 ppem. Replace
+  the 17 by whichever ppem size you wish this to happen. 17 ppem is merely the
+  size at which a typical font will make the transition from 1-pixel-wide to
+  2-pixel-wide stems.
+
+Each cvt declaration can have a list of deltas. Using the above example:
+
+    67: 0 = 65 @17 Delta (1 @17, -1 @31..36)
+
+The Delta (1 @17, -1 @31..36) is optional and means the following:
+- at 17 ppem we want to add 1 pixel to the weight of this distance
+- at 31 ppem through (and including) 36 ppem we want to subtract 1 pixel
+You can have more sizes, if you wish.
+
+Now we start with the UpperCase characters
+*/
+
+UpperCase
+  Grey
+  X
+  ItalicRun
+    20: 0
+  Y
+  ItalicRise
+    21: 0
+
+/*
+For italic fonts, we have to specify the components of the italic angle.
+These are
+- the italic run (how much across), and
+- the italic rise (how much up).
+You will have an italic rise for each character group, and you may have several
+italic runs for each character group, to account for varying italic angles such
+as in fonts like Garamond. For roman fonts, we don't need these cvts.
+
+Next, we do the various strokes.
+*/
+
+UpperCase
+  Black
+  X
+  StraightStroke
+    68: 0 = 66 @27
+    69: 0
+  RoundStroke
+    70: 0 = 68 @100
+/*
+    You can use relative inheritance for round strokes. For example,
+    instead of the absolute distance you could use the difference
+    between round and straight strokes, as was done for heights:
+    
+    70: 5 ~ 68 @100
+
+    The 5 means the round stroke is 5 fUnits wider than the straight
+    stroke (that is, cvt 68).
+*/
+    71: 0
+  Y
+  StraightStroke
+    72: 0 = 67 @ 41
+    73: 0
+  RoundStroke
+    74: 0 = 72 @100
+    75: 0
+  Diag
+  StraightStroke
+    76: 0 = 68 @ 41
+    77: 0
+  White
+  X
+  SerifExt
+    78: 0
+    79: 0
+  Black
+  Y
+  SerifHeight
+    80: 0
+
+/*
+Of course, SerifExt and SerifHeight are needed only for fonts that actually have
+serifs. You can remove them for all other fonts.
+
+We repeat the same pattern for the LowerCase characters. Again, ItalicRun and
+ItalicItalic Rise are needed only for italic fonts
+*/
+
+LowerCase
+  Grey
+  X
+  ItalicRun
+    22: 0
+  Y
+  ItalicRise
+    23: 0
+  Black
+  X
+  StraightStroke
+    81: 0 = 66 @ 27
+    82: 0
+  RoundStroke
+    83: 0 = 81 @100
+    84: 0
+  Y
+  StraightStroke
+    85: 0 = 67 @ 41
+    86: 0
+  RoundStroke
+    87: 0 = 85 @ 100
+    88: 0
+  Diag
+  StraightStroke
+    89: 0 = 81 @ 41
+    90: 0
+  White
+  X
+  SerifExt
+    91: 0
+    92: 0
+  Black
+  Y
+  SerifHeight
+    93: 305
+  X
+  Distance
+    94: 300
+  Y
+    95: 495
+  White
+    96: 63 Delta (1 @9..15, 1@30..48)
+
+/*
+Same pattern for the Figures...
+*/
+
+Figure
+  Grey
+  X
+  ItalicRun
+    24: 0
+  Y
+  ItalicRise
+    25: 0
+  Black
+  X
+  StraightStroke
+    97: 0 = 66 @ 27
+    98: 0
+  RoundStroke
+    99: 0 = 97 @ 100
+    100: 0
+  Y
+  StraightStroke
+    101: 0 = 67 @ 41
+    102: 0
+  RoundStroke
+    103: 0 = 101 @ 100
+    104: 0
+  Diag
+  StraightStroke
+    105: 0 = 97 @ 41
+    106: 0
+  White
+  X
+  SerifExt
+    107: 0
+    108: 0
+  Black
+  Y
+  SerifHeight
+    109: 0
+
+/*
+...and all the other glyphs.
+*/
+Other
+  X
+  StraightStroke
+    110: 0 = 66 @ 27
+    111: 0
+  RoundStroke
+    112: 0 = 110 @ 100
+    113: 0
+  Y
+  StraightStroke
+    114: 0 = 67 @ 41
+    115: 0
+  RoundStroke
+    116: 0 = 114 @ 100
+    117: 0
+  Diag
+  StraightStroke
+    118: 0 = 110 @ 41
+    119: 0
+
+/*
+Here, you would add your own groups and individual cvts, as they are needed to
+control a feature that several glyphs have in common.
+
+Notice: To find out which is the next cvt number you can use, consult the
+title bar of the control program. It indicates the number of entries in the cvt.
+Since we start counting at 0, this is the same as giving you the next available
+number.
+
+CAUTION: Do not use cvt numbers in range 40 through 64. This range is used by
+VTT internally.
+*/
+
+ Y
+   LowerCase
+  White
+    120: 30
+121: 87
+Black
+122: 302
+White
+123:-96 Delta (-1 @8..10)
+124: 187 Delta (1 @8..11)
+
+
+
+
+
+
+
+    </extraProgram>
+
+    <extraProgram name="fpgm">
+/* Function 0 takes 4 args */ 
+FDEF[], 0
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+GC[N]
+ADD[]
+DUP[]
+#PUSH, 38
+ADD[]
+#PUSH, 4
+MINDEX[]
+SWAP[]
+SCFS[]
+SCFS[]
+#END
+ENDF[]
+#PUSHON
+/* Function 1 takes 4 args */ 
+FDEF[], 1
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+GC[N]
+SWAP[]
+SUB[]
+DUP[]
+#PUSH, 38
+SUB[]
+#PUSH, 4
+MINDEX[]
+SWAP[]
+SCFS[]
+SCFS[]
+#END
+ENDF[]
+#PUSHON
+/* Function 2 takes 4 args */ 
+FDEF[], 2
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+GC[N]
+ADD[]
+#PUSH, 32
+SUB[]
+DUP[]
+#PUSH, 70
+ADD[]
+#PUSH, 4
+MINDEX[]
+SWAP[]
+SCFS[]
+SCFS[]
+#END
+ENDF[]
+#PUSHON
+/* Function 3 takes 4 args */ 
+FDEF[], 3
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+GC[N]
+SWAP[]
+SUB[]
+#PUSH, 32
+ADD[]
+DUP[]
+#PUSH, 38
+SUB[]
+#PUSH, 32
+SUB[]
+#PUSH, 4
+MINDEX[]
+SWAP[]
+SCFS[]
+SCFS[]
+#END
+ENDF[]
+#PUSHON
+/* Function 4 takes 4 args */ 
+FDEF[], 4
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+GC[N]
+ADD[]
+#PUSH, 64
+SUB[]
+DUP[]
+#PUSH, 102
+ADD[]
+#PUSH, 4
+MINDEX[]
+SWAP[]
+SCFS[]
+SCFS[]
+#END
+ENDF[]
+#PUSHON
+/* Function 5 takes 4 args */ 
+FDEF[], 5
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+GC[N]
+SWAP[]
+SUB[]
+#PUSH, 64
+ADD[]
+DUP[]
+#PUSH, 38
+SUB[]
+#PUSH, 64
+SUB[]
+#PUSH, 4
+MINDEX[]
+SWAP[]
+SCFS[]
+SCFS[]
+#END
+ENDF[]
+#PUSHON
+/* Function 6 takes 2 args */ 
+FDEF[], 6
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+SRP0[]
+DUP[]
+ALIGNRP[]
+SVTCA[Y]
+ALIGNRP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 7 takes 2 arguments */ 
+FDEF[], 7
+#BEGIN
+#PUSHOFF
+DUP[]
+RCVT[]
+SWAP[]
+DUP[]
+#PUSH, 205
+WCVTP[]
+SWAP[]
+DUP[]
+#PUSH, 346
+LTEQ[]
+IF[]
+SWAP[]
+DUP[]
+#PUSH, 141
+WCVTP[]
+SWAP[]
+EIF[]
+DUP[]
+#PUSH, 237
+LTEQ[]
+IF[]
+SWAP[]
+DUP[]
+#PUSH, 77
+WCVTP[]
+SWAP[]
+EIF[]
+DUP[]
+#PUSH, 4
+MINDEX[]
+LTEQ[]
+IF[]
+SWAP[]
+DUP[]
+#PUSH, 13
+WCVTP[]
+SWAP[]
+EIF[]
+POP[]
+POP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 8 takes 1 argument */ 
+FDEF[], 8
+#BEGIN
+#PUSHOFF
+DUP[]
+DUP[]
+RCVT[]
+RTG[]
+ROUND[Gr]
+WCVTP[]
+DUP[]
+#PUSH, 1
+ADD[]
+DUP[]
+RCVT[]
+#PUSH, 70
+SROUND[]
+ROUND[Gr]
+ROLL[]
+RCVT[]
+ADD[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 9 takes 0 arguments */ 
+FDEF[], 9
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+#PUSH, 11, 10
+RS[]
+SWAP[]
+RS[]
+NEG[]
+SPVFS[]
+#END
+#PUSHON
+ENDF[]
+/* Function 10 takes 0 arguments */ 
+FDEF[], 10
+#BEGIN
+#PUSHOFF
+SVTCA[Y]
+#PUSH, 10, 11
+RS[]
+SWAP[]
+RS[]
+SFVFS[]
+#END
+#PUSHON
+ENDF[]
+/* Function 11 takes 2 args */ 
+FDEF[], 11
+#BEGIN
+#PUSHOFF
+SVTCA[Y]
+#PUSH, 40
+SWAP[]
+WCVTF[]
+#PUSH, 1, 40
+MIAP[r]
+SVTCA[X]
+#PUSH, 40
+SWAP[]
+WCVTF[]
+#PUSH, 2, 40
+RCVT[]
+MSIRP[m]
+#PUSH, 2, 0
+SFVTL[r]
+GFV[]
+#END
+ENDF[]
+#PUSHON
+/* Function 13 */ 
+FDEF[], 13
+#BEGIN
+#PUSHOFF
+DUP[]
+RCVT[]
+#PUSH, 3
+CINDEX[]
+RCVT[]
+SUB[]
+ABS[]
+#PUSH, 80
+LTEQ[]
+IF[]
+RCVT[]
+WCVTP[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+/* Function 15 takes 1 arg */ 
+FDEF[], 15
+#BEGIN
+#PUSHOFF
+DUP[]
+RCVT[]
+#PUSH, 0
+RS[]
+ADD[]
+WCVTP[]
+#END
+ENDF[]
+#PUSHON
+/* Function 16 takes 0 arguments */
+FDEF[], 16
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+#PUSH, 6
+RS[]
+#PUSH, 7
+RS[]
+NEG[]
+SPVFS[]
+#END
+#PUSHON
+ENDF[]
+/* Function 17 takes 1 arg */ 
+FDEF[], 17
+#BEGIN
+#PUSHOFF
+DUP[]
+ROUND[Bl]
+#PUSH, 64
+SUB[]
+#PUSH, 0
+MAX[]
+DUP[]
+#PUSH, 44, 192
+ROLL[]
+MIN[]
+#PUSH, 4096
+DIV[]
+ADD[]
+CALL[]
+GPV[]
+ABS[]
+SWAP[]
+ABS[]
+SUB[]
+NOT[]
+IF[]
+#PUSH, 3
+SUB[]
+EIF[]
+#END
+ENDF[]
+#PUSHON
+/* Function 20 takes 4 arguments */ 
+FDEF[], 20
+#BEGIN
+#PUSHOFF
+ROLL[]
+SPVTCA[X]
+RCVT[]
+ROLL[]
+ROLL[]
+SDPVTL[R]
+#PUSH, 17
+CALL[]
+#PUSH, 41
+SWAP[]
+WCVTP[]
+#PUSH, 41
+ROFF[]
+MIRP[m&lt;RGr]
+RTG[]
+#END
+#PUSHON
+ENDF[]
+/* Function 24 takes 2 args */ 
+FDEF[], 24
+#BEGIN
+#PUSHOFF
+RCVT[]
+NEG[]
+#PUSH, 44
+SWAP[]
+WCVTP[]
+RCVT[]
+#PUSH, 43
+SWAP[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 31 takes 3 arguments */ 
+FDEF[], 31
+#BEGIN
+#PUSHOFF
+MPPEM[]
+GT[]
+IF[]
+RCVT[]
+WCVTP[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+/* Function 34 takes 5 arguments*/ 
+FDEF[], 34
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+#PUSH, 5
+CINDEX[]
+SRP0[]
+SWAP[]
+DUP[]
+ROLL[]
+MIRP[M&lt;RBl]
+SVTCA[Y]
+#PUSH, 1
+ADD[]
+SWAP[]
+MIRP[m>RBl]
+MIRP[m>RGr]
+#END
+#PUSHON
+ENDF[]
+/* Function 35 takes 5 arguments */ 
+FDEF[], 35
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+#PUSH, 5
+CINDEX[]
+SRP0[]
+SWAP[]
+DUP[]
+ROLL[]
+MIRP[M&lt;RBl]
+SVTCA[Y]
+#PUSH, 1
+SUB[]
+SWAP[]
+MIRP[m>RBl]
+MIRP[m>RGr]
+#END
+#PUSHON
+ENDF[]
+/* Function 36 takes 6 arguments */ 
+FDEF[], 36
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+#PUSH, 6
+CINDEX[]
+SRP0[]
+MIRP[M&lt;RBl]
+SVTCA[Y]
+MIRP[m>RBl]
+MIRP[m>RGr]
+#END
+#PUSHON
+ENDF[]
+/* Function 37 takes 1 args */ 
+FDEF[], 37
+#BEGIN
+#PUSHOFF
+DUP[]
+#PUSH, 1
+ADD[]
+SVTCA[X]
+SRP0[]
+DUP[]
+ALIGNRP[]
+SVTCA[Y]
+ALIGNRP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 38 takes 1 args */ 
+FDEF[], 38
+#BEGIN
+#PUSHOFF
+DUP[]
+#PUSH, 1
+SUB[]
+SVTCA[X]
+SRP0[]
+DUP[]
+ALIGNRP[]
+SVTCA[Y]
+ALIGNRP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 40 takes 0 arguments */
+FDEF[], 40
+#BEGIN
+#PUSHOFF
+SVTCA[Y]
+#PUSH, 7
+RS[]
+#PUSH, 6
+RS[]
+SFVFS[]
+#END
+#PUSHON
+ENDF[]
+/* Function 44 takes 2 arguments */
+FDEF[], 44
+#BEGIN
+#PUSHOFF
+POP[]
+POP[]
+GPV[]
+ABS[]
+SWAP[]
+ABS[]
+MAX[]
+#PUSH, 16384
+DIV[]
+#END
+#PUSHON
+ENDF[]
+/* Function 45 takes 2 arguments */
+FDEF[], 45
+#BEGIN
+#PUSHOFF
+POP[]
+#PUSH, 128
+LTEQ[]
+IF[]
+GPV[]
+ABS[]
+SWAP[]
+ABS[]
+MAX[]
+#PUSH, 8192
+DIV[]
+ELSE[]
+#PUSH, 0, 64, 47
+CALL[]
+EIF[]
+#PUSH, 2
+ADD[]
+#END
+#PUSHON
+ENDF[]
+/* Function 46 takes 2 arguments */
+FDEF[], 46
+#BEGIN
+#PUSHOFF
+POP[]
+#PUSH, 192
+LTEQ[]
+IF[]
+GPV[]
+ABS[]
+SWAP[]
+ABS[]
+MAX[]
+#PUSH, 5461
+DIV[]
+ELSE[]
+#PUSH, 0, 128, 47
+CALL[]
+EIF[]
+#PUSH, 2
+ADD[]
+#END
+#PUSHON
+ENDF[]
+/* Function 47 takes 2 arguments */
+FDEF[], 47
+#BEGIN
+#PUSHOFF
+GPV[]
+ABS[]
+SWAP[]
+ABS[]
+MAX[]
+#PUSH, 16384
+DIV[]
+ADD[]
+SWAP[]
+POP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 53:                */
+/*   IN SR_ARG, l1, r1, l2, r2 */
+/*   OUT sum/2, sum/2          */
+FDEF[], 53
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+RCVT[]
+ADD[]
+SWAP[]
+RCVT[]
+ADD[]
+SWAP[]
+RCVT[]
+ADD[]
+SWAP[]
+SROUND[]
+ROUND[Gr]
+RTG[]
+#PUSH, 128
+DIV[]
+DUP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 54:                */
+/*   STACK: sum/2, sum/2       */
+/*   IN li, rj                 */
+/*   OUT - - - -               */
+FDEF[], 54
+#BEGIN
+#PUSHOFF
+#PUSH, 4
+MINDEX[]
+#PUSH, 4
+MINDEX[]
+#PUSH, 4
+CINDEX[]
+#PUSH, 4
+CINDEX[]
+RCVT[]
+SWAP[]
+RCVT[]
+DUP[]
+#PUSH, 3
+MINDEX[]
+ADD[]
+DIV[]
+MUL[]
+ROUND[Gr]
+DUP[]
+#PUSH, 3
+MINDEX[]
+SUB[]
+NEG[]
+ROLL[]
+SWAP[]
+WCVTP[]
+/* cvt[rj] = sum/2 - sum/2 * ratio */
+WCVTP[]
+/* cvt[li] = sum/2 * ratio         */
+#END
+#PUSHON
+ENDF[]
+/* Function 55:                */
+/*   IN l1, r2                 */
+/*   OUT - -                   */
+FDEF[], 55
+#BEGIN
+#PUSHOFF
+DUP[]
+RCVT[]
+#PUSH, 0
+EQ[]
+IF[]
+  #PUSH, 64
+  WCVTP[]
+  /* cvt[r2] = 1 */
+  DUP[]
+  RCVT[]
+  #PUSH, 64
+  SUB[]
+  WCVTP[]
+  /* cvt[l1] = cvt[l1] - 1 */
+ELSE[]
+  POP[]
+  POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+/* Function 56:                                            */
+/*   IN i = index, pi = parent->index,                     */
+/*   GLOBALS: Uses CVT[47] representative->distance, and   */
+/*            CVT[48] parent->distance (both unhinted)     */
+FDEF[], 56
+#BEGIN
+#PUSHOFF
+RCVT[]
+#PUSH, 48, 47
+RCVT[]
+SWAP[]
+RCVT[]
+SUB[]
+ADD[]
+#PUSH, 1
+ADD[]
+ROUND[Bl]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 57:                                       */
+/*   IN ratio = reprDist/parentDist (F26.6)           */
+/*   IN rd = representative->distance, p = pt->ppem   */
+/*   GLOBALS: S[20] = ratio, cvt[47] = repr           */
+FDEF[], 57
+#BEGIN
+#PUSHOFF
+MPPEM[]
+LTEQ[]
+IF[]
+  #PUSH, 47
+  SWAP[]
+  WCVTF[]
+  #PUSH, 20
+  SWAP[]
+  WS[]
+ELSE[]
+  POP[]
+  POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+/* Function 58:                                        */
+/*   IN i = index, v = value, p = ppem                 */
+/*   cvt[i] = max (v, cvt[i])  for ppem >= p           */
+FDEF[], 58
+#BEGIN
+#PUSHOFF
+MPPEM[]
+LTEQ[]
+IF[]
+  DUP[]
+  #PUSH, 3
+  CINDEX[]
+  RCVT[]
+  ROUND[Bl]
+  GTEQ[]
+  IF[]
+    WCVTP[]
+  ELSE[]
+    POP[]
+    POP[]
+  EIF[]
+ELSE[]
+  POP[]
+  POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+/* Function 59:                                            */
+/*   IN i = index, pi = parent->index,                     */
+/*   GLOBALS: Uses CVT[47] representative->distance, and   */
+/*            CVT[48] parent->distance (both unhinted)     */
+FDEF[], 59
+#BEGIN
+#PUSHOFF
+RCVT[]
+#PUSH, 20
+RS[]
+#PUSH, 0
+ADD[]
+MUL[]
+#PUSH, 1
+ADD[]
+ROUND[Bl]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 60:                                            */
+/*   IN                                                    */
+/*   GLOBALS: Uses CVT[50] (min sidebearing sum)           */
+FDEF[], 60
+#BEGIN
+#PUSHOFF
+#PUSH, 47
+RCVT[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 61:                                    */
+/*   IN i = index, k = keyIndex                    */
+/*   cvt[i] = cvt[i] + cvt[keyIndex]               */
+FDEF[], 61
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+DUP[]
+RCVT[]
+ROLL[]
+ADD[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 62:                                        */
+/*   IN i = index, ki = keyIndex, ci = ctrlIndex       */
+/*   cvt[i] = cvt[ki] + cvt[ci]                        */
+FDEF[], 62
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+RCVT[]
+ADD[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 63:                                        */
+/*   IN ThresholdPpem                                  */
+/*   if (MPPEM > ThresholdPpem) borrow .5 pixel        */
+FDEF[], 63
+#BEGIN
+#PUSHOFF
+MPPEM[]
+SWAP[]
+LTEQ[]
+IF[]
+  #PUSH, 51, -32, 52, 32
+ELSE[]
+  #PUSH, 51, 0, 52, 0
+EIF[]
+WCVTP[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 64 takes 5 arguments */ 
+FDEF[], 64
+#BEGIN
+#PUSHOFF
+#PUSH, 22
+RS[]
+IF[]
+  #PUSH,3
+  MINDEX[]
+  RCVT[]
+  ROLL[]
+  IF[]
+    ABS[]
+    FLOOR[]
+    #PUSH,31
+    ADD[]
+  ELSE[]
+    ABS[]
+    #PUSH,32
+    ADD[]
+    FLOOR[]
+    DUP[]
+    IF[]
+    ELSE[]
+      POP[]
+      #PUSH,64
+    EIF[]
+    #PUSH,1
+    SUB[]
+  EIF[]
+  SWAP[]
+  IF[]
+    NEG[]
+  EIF[]
+  #PUSH,41
+  SWAP[]
+  WCVTP[]
+  SWAP[]
+  SRP0[]
+  #PUSH,41
+  MIRP[m&lt;rGr]
+ELSE[]
+  POP[]
+  POP[]
+  POP[]
+  POP[]
+  POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+/* Function 65 takes 8 arguments */ 
+FDEF[], 65
+#BEGIN
+#PUSHOFF
+#PUSH, 22
+RS[]
+IF[]
+#PUSH,4
+CINDEX[]
+RCVT[]
+ABS[]
+#PUSH,32
+ADD[]
+FLOOR[]
+DUP[]
+IF[]
+ELSE[]
+POP[]
+#PUSH,64
+EIF[]
+#PUSH,1
+SUB[]
+SWAP[]
+IF[]
+NEG[]
+EIF[]
+#PUSH,41
+SWAP[]
+WCVTP[]
+#PUSH,4
+CINDEX[]
+#PUSH,7
+CINDEX[]
+SFVTL[r]
+DUP[]
+IF[]
+  SPVTCA[Y]
+ELSE[]
+  SPVTCA[X]
+EIF[]
+#PUSH,5
+CINDEX[]
+SRP0[]
+#PUSH,4
+CINDEX[]
+DUP[]
+GC[N]
+#PUSH,4
+CINDEX[]
+SWAP[]
+WS[]
+ALIGNRP[]
+#PUSH,7
+CINDEX[]
+SRP0[]
+#PUSH,6
+CINDEX[]
+DUP[]
+GC[N]
+#PUSH,4
+CINDEX[]
+#PUSH,1
+ADD[]
+SWAP[]
+WS[]
+ALIGNRP[]
+DUP[]
+IF[]
+  SVTCA[X]
+ELSE[]
+  SVTCA[Y]
+EIF[]
+#PUSH,5
+CINDEX[]
+SRP0[]
+#PUSH,4
+CINDEX[]
+#PUSH,41
+MIRP[m&lt;rGr]
+#PUSH,7
+CINDEX[]
+SRP0[]
+#PUSH,6
+CINDEX[]
+#PUSH,41
+MIRP[m&lt;rGr]
+#PUSH,4
+CINDEX[]
+#PUSH,7
+CINDEX[]
+SFVTL[r]
+DUP[]
+IF[]
+  SPVTCA[Y]
+ELSE[]
+  SPVTCA[X]
+EIF[]
+#PUSH,4
+CINDEX[]
+#PUSH,3
+CINDEX[]
+RS[]
+SCFS[]
+#PUSH,6
+CINDEX[]
+#PUSH,3
+CINDEX[]
+#PUSH,1
+ADD[]
+RS[]
+SCFS[]
+ELSE[]
+POP[]
+EIF[]
+POP[]
+POP[]
+POP[]
+POP[]
+POP[]
+POP[]
+POP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 66 takes 8 arguments */ 
+FDEF[], 66
+#BEGIN
+#PUSHOFF
+#PUSH, 22
+RS[]
+IF[]
+#PUSH,4
+CINDEX[]
+RCVT[]
+ABS[]
+#PUSH,32
+ADD[]
+FLOOR[]
+DUP[]
+IF[]
+ELSE[]
+POP[]
+#PUSH,64
+EIF[]
+#PUSH,1
+SUB[]
+SWAP[]
+IF[]
+ELSE[]
+NEG[]
+EIF[]
+#PUSH,41
+SWAP[]
+WCVTP[]
+#PUSH,5
+CINDEX[]
+#PUSH,8
+CINDEX[]
+SFVTL[r]
+DUP[]
+IF[]
+  SPVTCA[Y]
+ELSE[]
+  SPVTCA[X]
+EIF[]
+#PUSH,4
+CINDEX[]
+SRP0[]
+#PUSH,5
+CINDEX[]
+DUP[]
+GC[N]
+#PUSH,4
+CINDEX[]
+SWAP[]
+WS[]
+ALIGNRP[]
+#PUSH,4
+CINDEX[]
+#PUSH,7
+CINDEX[]
+SFVTL[r]
+#PUSH,7
+CINDEX[]
+SRP0[]
+#PUSH,6
+CINDEX[]
+DUP[]
+GC[N]
+#PUSH,4
+CINDEX[]
+#PUSH,1
+ADD[]
+SWAP[]
+WS[]
+ALIGNRP[]
+DUP[]
+IF[]
+  SVTCA[X]
+ELSE[]
+  SVTCA[Y]
+EIF[]
+#PUSH,4
+CINDEX[]
+SRP0[]
+#PUSH,5
+CINDEX[]
+#PUSH,41
+MIRP[m&lt;rGr]
+#PUSH,41
+DUP[]
+RCVT[]
+NEG[]
+WCVTP[]
+#PUSH,7
+CINDEX[]
+SRP0[]
+#PUSH,6
+CINDEX[]
+#PUSH,41
+MIRP[m&lt;rGr]
+#PUSH,5
+CINDEX[]
+#PUSH,8
+CINDEX[]
+SFVTL[r]
+DUP[]
+IF[]
+  SPVTCA[Y]
+ELSE[]
+  SPVTCA[X]
+EIF[]
+#PUSH,5
+CINDEX[]
+#PUSH,3
+CINDEX[]
+RS[]
+SCFS[]
+#PUSH,4
+CINDEX[]
+#PUSH,7
+CINDEX[]
+SFVTL[r]
+#PUSH,6
+CINDEX[]
+#PUSH,3
+CINDEX[]
+#PUSH,1
+ADD[]
+RS[]
+SCFS[]
+ELSE[]
+POP[]
+EIF[]
+POP[]
+POP[]
+POP[]
+POP[]
+POP[]
+POP[]
+POP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 67 takes 4 arguments */ 
+FDEF[], 67
+#BEGIN
+#PUSHOFF
+SPVTCA[Y]
+#PUSH,4
+CINDEX[]
+DUP[]
+DUP[]
+GC[N]
+#PUSH,4
+CINDEX[]
+SWAP[]
+WS[]
+#PUSH,5
+CINDEX[]
+SFVTL[r]
+#PUSH,3
+CINDEX[]
+RCVT[]
+SCFS[]
+POP[]
+POP[]
+POP[]
+POP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 68 takes 3 arguments */ 
+FDEF[], 68
+#BEGIN
+#PUSHOFF
+SPVTCA[Y]
+#PUSH,3
+CINDEX[]
+DUP[]
+#PUSH,4
+CINDEX[]
+SFVTL[r]
+#PUSH,2
+CINDEX[]
+RS[]
+SCFS[]
+POP[]
+POP[]
+POP[]
+#END
+#PUSHON
+ENDF[]
+/* Function 69 takes 2 arguments */ 
+FDEF[], 69
+#BEGIN
+#PUSHOFF
+RCVT[]
+SWAP[]
+DUP[]
+RCVT[]
+RTG[]
+DUP[]
+#PUSH,0
+LT[]
+DUP[]
+IF[]
+  SWAP[]
+  NEG[]
+  SWAP[]
+EIF[]
+SWAP[]
+ROUND[Gr]
+DUP[]
+#PUSH,64
+LT[]
+IF[]
+  POP[]
+  #PUSH,64
+EIF[]
+SWAP[]
+IF[]
+  NEG[]
+EIF[]
+ROLL[]
+ADD[]
+WCVTP[]
+#END
+#PUSHON
+ENDF[]
+
+/***** functions to implement ranges of deltas and deltas with odd amounts *****/
+
+/* Function 70 takes 5 arguments */
+/* This function changes a CVT within a range of PPEM sizes */
+/* CALL[],&lt;amount>,&lt;CVT>,&lt;low PPEM>,&lt;high PPEM>,70 */
+
+/* &lt;high PPEM> Highest PPEM in range to be modified (inclusive */
+/* &lt;low PPEM>  Lowest PPEM in range to be modified (inclusive) */
+/* &lt;CVT>       CVT to be modified */
+/* &lt;amount>    Amount to change CVT, in +/- 64ths */
+
+FDEF[],70
+#BEGIN
+#PUSHOFF
+MPPEM[]
+GTEQ[]
+SWAP[]
+MPPEM[]
+LTEQ[]
+AND[]
+IF[]
+DUP[]
+RCVT[]
+ROLL[]
+ADD[]
+WCVTP[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+
+/* Function 71 takes 4 arguments */
+/* This function changes a CVT at a specific PPEM */
+/* CALL[],&lt;amount>,&lt;CVT>,&lt;ppem size>,71 */
+
+/* &lt;ppem size> PPEM to be modified */
+/* &lt;CVT>       CVT to be modified */
+/* &lt;amount>    Amount to change CVT, in +/- 64ths */
+
+FDEF[],71
+#BEGIN
+#PUSHOFF
+MPPEM[]
+EQ[]
+IF[]
+DUP[]
+RCVT[]
+ROLL[]
+ADD[]
+WCVTP[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+
+/* Function 72 takes 5 arguments */
+/* This function moves a point within a range of PPEM sizes */
+/* CALL[],&lt;point>,&lt;amount>,&lt;low PPEM>,&lt;high PPEM>,72 */
+
+/* &lt;high ppem> Highest PPEM in range to be modified (inclusive */
+/* &lt;low ppem>  Lowest PPEM in range to be modified (inclusive) */
+/* &lt;amount>    Amount to move point, in +/- 64ths */
+/* &lt;Point>     point to be modified */
+
+FDEF[],72
+#BEGIN
+#PUSHOFF
+MPPEM[]
+GTEQ[]
+SWAP[]
+MPPEM[]
+LTEQ[]
+AND[]
+IF[]
+SHPIX[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+
+/* Function 73 takes 4 arguments */
+/* This function moves a point at a specific PPEM */
+/* CALL[],&lt;point>,&lt;amount>,&lt;ppem size>,73 */
+
+/* &lt;ppem size> PPEM to be modified */
+/* &lt;amount> Amount to move point, in +/- 64ths */
+/* &lt;point> point to be moved */
+
+FDEF[],73
+#BEGIN
+#PUSHOFF
+MPPEM[]
+EQ[]
+IF[]
+SHPIX[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+
+/***** The following 4 functions essentially repeat the above 4
+	however, they accept an extra flag to indicate whether the
+	delta applies to grey scaling (1) or black-and-white (0) only. *****/
+
+/* CALL[],&lt;amount>,&lt;CVT>,&lt;low PPEM>,&lt;high PPEM>,&lt;flag>,74 */
+FDEF[],74
+#BEGIN
+#PUSHOFF
+#PUSH, 2
+RS[]
+EQ[]
+IF[]         /* if storage #2 and flag match */
+#PUSH, 70
+CALL[]       /* forward to "standard" function */
+ELSE[]
+POP[]        /* else cleanup stack and bail out */
+POP[]
+POP[]
+POP[]
+EIF[]
+#PUSHON
+#END
+ENDF[]
+
+/* CALL[],&lt;amount>,&lt;CVT>,&lt;ppem size>,&lt;flag>,75 */
+FDEF[],75
+#BEGIN
+#PUSHOFF
+#PUSH, 2
+RS[]
+EQ[]
+IF[]         /* if storage #2 and flag match */
+#PUSH, 71
+CALL[]       /* forward to "standard" function */
+ELSE[]
+POP[]        /* else cleanup stack and bail out */
+POP[]
+POP[]
+EIF[]
+#PUSHON
+#END
+ENDF[]
+
+/* CALL[],&lt;point>,&lt;amount>,&lt;low PPEM>,&lt;high PPEM>,&lt;flag>,76 */
+FDEF[],76
+#BEGIN
+#PUSHOFF
+#PUSH, 2
+RS[]
+EQ[]
+IF[]         /* if storage #2 and flag match */
+#PUSH, 72
+CALL[]       /* forward to "standard" function */
+ELSE[]
+POP[]        /* else cleanup stack and bail out */
+POP[]
+POP[]
+POP[]
+EIF[]
+#PUSHON
+#END
+ENDF[]
+
+/* CALL[],&lt;point>,&lt;amount>,&lt;ppem size>,&lt;flag>,77 */
+FDEF[],77
+#BEGIN
+#PUSHOFF
+#PUSH, 2
+RS[]
+EQ[]
+IF[]         /* if storage #2 and flag match */
+#PUSH, 73
+CALL[]       /* forward to "standard" function */
+ELSE[]
+POP[]        /* else cleanup stack and bail out */
+POP[]
+POP[]
+EIF[]
+#PUSHON
+#END
+ENDF[]
+
+/************* New glyph hinting functions  ***************/
+/* Function 78 takes 5 arguments */
+/* Moves a point along the angle of two pts. VincentC 5-15-95 */
+/* The point being moved should also be one of the pts for the anlge &lt;pt2> */
+/* CALL[], &lt;amount>, &lt;low cutoff>, &lt;high cutoff>, &lt;pt1>, &lt;pt2>, &lt;fn> */
+/* &lt;amount> in 64ths */
+/* &lt;low cutoff> ppem size to cutoff the function (inclusive) */
+/* &lt;high cutoff> ppem size to cutoff the function (inclusive) */
+/* &lt;fn> function number, here should be 1 */
+FDEF[],78
+#BEGIN
+#PUSHOFF
+DUP[]
+ROLL[]
+SFVTL[r]
+SWAP[]
+MPPEM[]
+GTEQ[]
+ROLL[]
+MPPEM[]
+LTEQ[]
+AND[]
+IF[]
+SWAP[]
+SHPIX[]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON 
+ENDF[]  
+/* Function 79 takes 3 arguments , used for Y positioning of accents */ 
+/*   Example:    CALL[], 1, 10, 14,  79   call,outline#,a1,b1,funct#  */
+FDEF[], 79
+#BEGIN
+SVTCA[Y]
+#PUSHOFF
+DUP[]
+ROLL[]
+MD[N]
+#PUSH, 0
+LTEQ[]
+IF[]
+#PUSH, 64
+SWAP[]
+DUP[]
+ROLL[]
+SHPIX[]
+SRP2[]
+SHC[2]
+ELSE[]
+POP[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+
+/* fn 80 centers accents on base glyph in x direction
+   CALL[], &lt;offset>, &lt;left point on accent>, &lt;right point on accent>,
+           &lt;left point on base glyph>, &lt;right point on base glyph>, 80
+   - offset denotes accent's offset in fUnits (e.g. for grave, acute)
+   - offset may be 0 (e.g. perfectly centered circumflex)
+   - left and right point may be the same (e.g. center of circumflex)
+   fn call must be followed by
+   SHC[2], &lt;contour number>
+   for each contour that is part of the accent */
+
+FDEF[], 80
+#BEGIN
+#PUSHOFF
+SVTCA[X]
+GC[N]        /* rightBase.x */
+SWAP[]
+GC[N]        /* leftBase.x */
+ADD[]        /* rightBase.x + leftBase.x */
+SWAP[]
+GC[N]        /* rightAccent.x */
+SUB[]        /* rightBase.x + leftBase.x - rightAccent.x */
+SWAP[]
+DUP[]        /* save leftAccent for MSIRP below */
+SRP0[]
+DUP[]
+GC[N]        /* leftAccent.x */
+ROLL[]
+SUB[]        /* rightBase.x + leftBase.x - (rightAccent.x + leftAccent .x) */
+#PUSH, -128
+DIV[]        /* (leftAccent .x + rightAccent.x)/2 - (leftBase.x + rightBase.x)/2 */
+ROLL[]       /* fetch offset */
+#PUSH, 64, 64
+ROLL[]       /* fetch offset again... */
+WCVTF[]      /* scale... */
+RCVT[]       /* fetch scaled offset */
+ADD[]
+ROUND[Gr]    /* add and round */
+MSIRP[m]
+#PUSHON
+#END
+ENDF[]
+
+/* Function 81 TAKES 3 ARGUMENTS, aligns a point until a specific distance is reached.
+	Used for flares. First link p1 to p2, then call the function. VC Dec 11,1995*/
+/* CALL[], amt, p1, p2, 81 ... amt is in 64ths, p1 is start pt, p2 is point moved, 81 is function# */
+FDEF[], 81
+#BEGIN
+#PUSHOFF
+DUP[]
+ROLL[]
+SWAP[]
+MD[N]
+ABS[]
+ROLL[]
+SWAP[]
+GTEQ[]
+IF[]
+ALIGNRP[]
+ELSE[]
+POP[]
+EIF[]
+#END
+#PUSHON
+ENDF[]
+
+/* Function 82 takes 1 argument (ppemLimit), used in Diagonal, DAlign, and Intersect
+   if current ppem size &lt; ppemLimit then RDTG[] else ROFF[] end. B.St. 23-Jun-98 */
+
+FDEF[],82
+#BEGIN
+#PUSHOFF
+  MPPEM[]
+  GT[]
+  IF[]
+  #BEGIN
+    RDTG[]
+  #END
+  ELSE[]
+  #BEGIN
+    ROFF[]
+  #END
+  EIF[]
+#PUSHON
+#END
+ENDF[]
+
+
+/***** functions for control program *****/
+
+/* fn 83 determines whether or not the aspect
+   ratio of the resolutions in x and y is the
+   same, recording the result in s[18] */
+
+FDEF[],83
+#BEGIN
+#PUSHOFF
+#PUSH, 18
+SVTCA[Y]
+MPPEM[]
+SVTCA[X]
+MPPEM[]
+EQ[]
+WS[] /* s[18] = square (1:1) aspect ratio */
+#PUSHON
+#END
+ENDF[]
+
+/* fn 84 determines whether or not we are cur-
+   rently rasterizing with grey scales, recor-
+   ding the result in s[2], used in functions
+   74 through 77 */
+
+FDEF[],84
+#BEGIN
+#PUSHOFF
+#PUSH,2,0
+WS[]            /* s[2] = grey scaling: off (by default) */
+#PUSH,35,1      /* 35 = MS Rasterizer version 1.7 */
+GETINFO[]       /* 1 = tell GETINFO to give us the rasterizer version */
+LTEQ[]          /* 35 &lt;= version ? */
+#PUSH,64,1      /* 64 = highest rasterizer version assigned to MS */
+GETINFO[]       /* 1 = tell GETINFO to give us the rasterizer version */
+GTEQ[]          /* 64 >= version ? */
+AND[]           /* 35 &lt;= version &amp;&amp; version &lt;= 64 ? */
+IF[]            /* if so, we're running MS rasterizer version 1.7 or higher */
+  #PUSH,4096,32 /* 4096 = flag returned by GETINFO if grey scaling bit is on */
+  GETINFO[]     /* 32 = tell GETINFO to give us the grey scaling bit */
+  EQ[]          /* 4096 == flag ? */
+  IF[]          /* if so, we're running under grey scaling */
+    #PUSH,2,1
+    WS[]        /* s[2] = grey scaling: on (by now) */
+  EIF[]
+EIF[]
+#PUSHON
+#END
+ENDF[]
+
+/* fn 85 equalizes double specified heights
+   below a given ppem size
+   CALL[], &lt;rel height cvt>, &lt;ppem size>, &lt;abs height cvt>, 85 */
+
+FDEF[], 85
+#BEGIN
+#PUSHOFF
+RCVT[] /* pick absolute (square) height */
+RTG[]
+ROUND[Gr]
+SWAP[]
+MPPEM[]
+LTEQ[] /* specified ppem size &lt;= actual ppem size ? */
+IF[]
+  SWAP[]
+  DUP[]
+  RCVT[] /* pick relative height (overshoot) */
+  DUP[]
+  ABS[]
+  #PUSH,64
+  LT[] /* Abs(overshoot) &lt; 1 pixel ? */
+  IF[]
+    RUTG[] /* force overshoot */
+  EIF[]
+  ROUND[Gr]
+  ROLL[]
+  ADD[] /* add overshoot to square height */
+EIF[]
+WCVTP[] /* make this the round height */
+#END
+#PUSHON
+ENDF[]
+
+/* fn 86, 87 reserved for "inheritence by pixel size" */
+
+/* fn 88 sets up 4 storage locations with the 
+   x and y components of the italic and adjusted
+   italic angle as follows:
+   
+     s[10] = italic angle y
+     s[11] = italic angle x
+     s[ 6] = adjusted italic angle y
+     s[ 7] = adjusted italic angle x
+  
+   CALL[], &lt;italic rise cvt>, &lt;italic run cvt>, 88 */
+
+FDEF[], 88
+#BEGIN
+#PUSHOFF
+
+#PUSH, 0 /* Use twilight points to calculate stroke angles */
+SZPS[]
+
+#PUSH, 2 /* Dup the two parameters, we need them twice */
+CINDEX[]
+#PUSH, 2
+CINDEX[]
+
+SVTCA[X] /* Set twilight point 1 with italic run cvt in x */
+#PUSH, 1
+SWAP[]
+MIAP[r]
+
+SVTCA[Y] /* Set twilight point 2 with italic rise cvt in y */
+#PUSH, 2
+SWAP[]
+MIAP[r]
+
+#PUSH, 1, 2 /* and let the rasterizer do the math */
+SPVTL[r]
+GPV[]
+
+#PUSH, 10 /* store the x and y components of the italic angle */
+SWAP[]    
+NEG[]     /* notice that since we're essentially setting the pv to a line  */
+WS[]      /* from (runCvt,0) to (0,riseCvt), the calculcated pv will be    */
+#PUSH, 11 /* proportional to (runCvt,0) - (0,riseCvt) = (runCvt,-riseCvt). */
+SWAP[]    /* Hence we have to mirror the result at the base line, which is */
+WS[]      /* done by flipping (negating) the sign of the y component here. */
+
+SVTCA[X] /* same for the adjusted italic angle */
+#PUSH, 1
+SWAP[]
+MIAP[R]  /* except to round the twilight point in x... */
+
+SVTCA[Y]
+#PUSH, 2
+SWAP[]
+MIAP[R]  /* ...and in y */
+
+#PUSH, 1, 2
+SPVTL[r]
+GPV[]
+
+#PUSH, 6
+SWAP[]
+NEG[]    /* same neg as above */
+WS[]
+#PUSH, 7
+SWAP[]
+WS[]
+
+#PUSH, 1 /* restore graphics state */
+SZPS[]
+SVTCA[X]
+#PUSHON
+#END
+ENDF[]
+
+    </extraProgram>
+
+    <extraProgram name="ppgm">
+/* auto-generated pre-program */
+/* VTT 4.4 compiler Thu Feb 17 16:50:22 2011 */
+
+/* Square aspect ratio? */
+CALL[], 83
+
+/* Grey scaling? */
+CALL[], 84
+
+/* InstructionsOn */
+#PUSHOFF
+MPPEM[]
+#PUSH, 2047
+GT[]
+MPPEM[]
+#PUSH, 8
+LT[]
+OR[]
+#PUSH, 1
+GETINFO[]
+#PUSH, 37
+GTEQ[]
+#PUSH, 1
+GETINFO[]
+#PUSH, 64
+LTEQ[]
+AND[]
+#PUSH, 6
+GETINFO[]
+#PUSH, 0
+NEQ[]
+AND[]
+OR[]
+IF[]
+    #PUSH, 1, 1
+    INSTCTRL[]
+EIF[]
+#PUSHON
+
+/* DropOutCtrlOff */
+SCANCTRL[], 400
+
+SCANTYPE[], 1
+SCANTYPE[], 5
+
+/* CvtCutIn */
+SVTCA[Y]
+WS[], 22, 1 /* s[22] = diagonal control: on (by default) */
+SCVTCI[], 256
+#PUSHOFF
+MPPEM[]
+#PUSH, 29
+GTEQ[]
+IF[]
+#PUSH, 160
+SCVTCI[]
+EIF[]
+MPPEM[]
+#PUSH, 128
+GTEQ[]
+IF[]
+#PUSH, 0
+SCVTCI[]
+#PUSH, 22, 0
+WS[] /* s[22] = diagonal control: off (by now) */
+EIF[]
+#PUSHON
+
+CALL[], 3, 42, 2, 85
+CALL[], 9, 42, 8, 85
+CALL[], 1, 42, 0, 85
+CALL[], 7, 42, 6, 85
+CALL[], 11, 42, 10, 85
+CALL[], 15, 42, 14, 85
+CALL[], 5, 42, 4, 85
+CALL[], 13, 42, 12, 85
+SVTCA[X]
+CALL[], 66, 65, 17, 31
+SVTCA[Y]
+CALL[], 67, 65, 17, 31
+SVTCA[X]
+CALL[], 68, 66, 27, 31
+CALL[], 70, 68, 100, 31
+SVTCA[Y]
+CALL[], 72, 67, 41, 31
+CALL[], 74, 72, 100, 31
+CALL[], 76, 68, 41, 31
+SVTCA[X]
+CALL[], 81, 66, 27, 31
+CALL[], 83, 81, 100, 31
+SVTCA[Y]
+CALL[], 85, 67, 41, 31
+CALL[], 87, 85, 100, 31
+CALL[], 89, 81, 41, 31
+CALL[], 64, 96, 9, 15, 70
+CALL[], 64, 96, 30, 48, 70
+SVTCA[X]
+CALL[], 97, 66, 27, 31
+CALL[], 99, 97, 100, 31
+SVTCA[Y]
+CALL[], 101, 67, 41, 31
+CALL[], 103, 101, 100, 31
+CALL[], 105, 97, 41, 31
+SVTCA[X]
+CALL[], 110, 66, 27, 31
+CALL[], 112, 110, 100, 31
+SVTCA[Y]
+CALL[], 114, 67, 41, 31
+CALL[], 116, 114, 100, 31
+CALL[], 118, 110, 41, 31
+SDB[], 8
+DLTC1[(123 @0 -8)(123 @1 -8)(123 @2 -8)]
+CALL[], 64, 124, 8, 11, 70
+RTG[]
+SDB[], 9
+
+
+    </extraProgram>
+
+  </TSI1>
+
+</ttFont>

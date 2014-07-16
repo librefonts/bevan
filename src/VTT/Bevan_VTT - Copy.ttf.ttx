@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Bevan_VTT - Copy.ttf.GlyphOrder.ttx"/>
+  <head src="Bevan_VTT - Copy.ttf._h_e_a_d.ttx"/>
+  <hhea src="Bevan_VTT - Copy.ttf._h_h_e_a.ttx"/>
+  <maxp src="Bevan_VTT - Copy.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Bevan_VTT - Copy.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Bevan_VTT - Copy.ttf._h_m_t_x.ttx"/>
+  <cmap src="Bevan_VTT - Copy.ttf._c_m_a_p.ttx"/>
+  <fpgm src="Bevan_VTT - Copy.ttf._f_p_g_m.ttx"/>
+  <prep src="Bevan_VTT - Copy.ttf._p_r_e_p.ttx"/>
+  <cvt src="Bevan_VTT - Copy.ttf._c_v_t.ttx"/>
+  <loca src="Bevan_VTT - Copy.ttf._l_o_c_a.ttx"/>
+  <glyf src="Bevan_VTT - Copy.ttf._g_l_y_f.ttx"/>
+  <name src="Bevan_VTT - Copy.ttf._n_a_m_e.ttx"/>
+  <post src="Bevan_VTT - Copy.ttf._p_o_s_t.ttx"/>
+  <gasp src="Bevan_VTT - Copy.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Bevan_VTT - Copy.ttf.F_F_T_M_.ttx"/>
+  <TSI0 src="Bevan_VTT - Copy.ttf.T_S_I__0.ttx"/>
+  <TSI1 src="Bevan_VTT - Copy.ttf.T_S_I__1.ttx"/>
+  <TSI2 src="Bevan_VTT - Copy.ttf.T_S_I__2.ttx"/>
+  <TSI3 src="Bevan_VTT - Copy.ttf.T_S_I__3.ttx"/>
+  <TSI5 src="Bevan_VTT - Copy.ttf.T_S_I__5.ttx"/>
+  <TSIP src="Bevan_VTT - Copy.ttf.T_S_I_P_.ttx"/>
+</ttFont>
