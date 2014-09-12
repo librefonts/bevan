@@ -1409,7 +1409,7 @@
     <yPel name="zero" value="75"/>
   </LTSH>
 
-  <VDMX>
+  <VDMX raw="True">
     <hexdata>
       00000001 00010101 0101000c 00f808ff
       0008000a fffc0009 000bfffb 000a000c
