@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [src/Bevan.ufo, Bevan.ttf.ttx, src/ikern/Bevan_ik.ttf.ttx, src/ikern/Bevan.ttf.ttx,
+  src/VTT/Bevan_VTT2.ttf.ttx, src/VTT/Bevan_VTT.ttf.ttx, src/VTT/Bevan_VTT - Copy.ttf.ttx,
+  src/VTT/BevanFLAB.ttx, src/VTT/BevanFLAB.ttf.ttx, src/Bevan.sfd, src/ikern/Bevan.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

@@ -1,0 +1,32 @@
+{
+  "name": "Bevan",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 49238,
+  "fonts": [
+    {
+      "name": "Bevan",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Bevan.ttf",
+      "postScriptName": "Bevan",
+      "fullName": "Bevan",
+      "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    },
+    {
+      "name": "Bevan",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Bevan-Regular.ttf",
+      "postScriptName": "Bevan",
+      "fullName": "Bevan",
+      "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-02-23"
+}
